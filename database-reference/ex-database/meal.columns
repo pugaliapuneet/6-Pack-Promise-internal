@@ -1,0 +1,8 @@
+"name","type","length","leftDigits","rightDigits"
+"id","INTEGER","2","2","0"
+"Breakfast","STRING","0","0","0"
+"Snack1","STRING","0","0","0"
+"Lunch","STRING","0","0","0"
+"Snack2","STRING","0","0","0"
+"Dinner","STRING","0","0","0"
+"Snack3","STRING","0","0","0"

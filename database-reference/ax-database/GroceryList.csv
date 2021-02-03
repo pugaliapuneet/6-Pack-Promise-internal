@@ -1,0 +1,631 @@
+"week","Text"
+"1","<!DOCTYPE html PUBLIC ""-//W3C//DTD HTML 4.01//EN"" ""http://www.w3.org/TR/html4/strict.dtd"">
+<html>
+<head>
+<meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8"">
+<meta http-equiv=""Content-Style-Type"" content=""text/css"">
+<title></title>
+<meta name=""Generator"" content=""Cocoa HTML Writer"">
+<meta name=""CocoaVersion"" content=""1138"">
+<style type=""text/css"">
+p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: center; font: 18.0px Helvetica}
+p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: center; font: 12.0px Helvetica; min-height: 14.0px}
+p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; font: 18.0px Helvetica}
+p.p4 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; min-height: 14.0px}
+p.p5 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; color: #ff1f17}
+p.p6 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; color:#fff}
+p.p7 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; color: #ff1f17; min-height: 14.0px}
+p.p8 {margin: 0.0px 0.0px 0.0px 0.0px; font: 17.0px Helvetica}
+p.p9 {margin: 0.0px 0.0px 0.0px 0.0px; font: 18.0px Helvetica; min-height: 22.0px}
+
+</style>
+</head>
+<body>
+
+<p class=""p4""><b></b><br></p>
+<p class=""p5""><span class=""s1""><b>Fruits</b></span></p>
+<p class=""p6""><b>Pineapple Slices</b></p>
+<p class=""p6""><b>Oranges</b></p>
+<p class=""p6""><b>Bananas</b></p>
+<p class=""p6""><b>Blueberries</b></p>
+<p class=""p6""><b>Apples</b></p>
+<p class=""p6""><b>Grapes</b></p><br>
+<p class=""p5""><span class=""s1""><b>Vegetables</b></span></p>
+<p class=""p6""><b>Mixed Green Salad</b></p>
+<p class=""p6""><b>Lemons</b></p>
+<p class=""p6""><b>Spinach</b></p>
+<p class=""p6""><b>Portobello Mushrooms</b></p>
+<p class=""p6""><b>Mixed Frozen Vegetables</b></p>
+<p class=""p6""><b>Broccoli</b></p>
+<p class=""p7""><span class=""s1""><b></b></span><br></p>
+<p class=""p5""><span class=""s1""><b>Protein</b></span></p>
+<p class=""p6""><b>Halibut Steak</b></p>
+<p class=""p6""><b>Roasted Turkey Breast</b></p>
+<p class=""p6""><b>Pork Chops</b></p>
+<p class=""p6""><b>Turkey Bacon</b></p>
+<p class=""p6""><b>Sirloin Steak</b></p>
+<p class=""p6""><b>Grilled Chicken Breasts</b></p>
+<p class=""p6""><b>Ahi Tuna Steak</b></p>
+<p class=""p7""><span class=""s1""><b></b></span><br></p>
+<p class=""p5""><span class=""s1""><b>Dairy</b></span></p>
+<p class=""p6""><b>Fat Free Swiss Cheese Slices</b></p>
+<p class=""p6""><b>Fat Free / 1% Cottage Cheese or Ricotta Cheese</b></p>
+<p class=""p6""><b>Fat Free Mozzarella Cheese</b></p>
+<p class=""p7""><span class=""s1""><b></b></span><br></p>
+<p class=""p5""><span class=""s1""><b>Grains</b></span></p>
+<p class=""p6""><b>Cous Cous</b></p>
+<p class=""p6""><b>Whole Wheat Wraps</b></p>
+<p class=""p6""><b>Angel Hair Pasta</b></p>
+<p class=""p6""><b>English Muffins</b></p>
+<p class=""p7""><span class=""s1""><b></b></span><br></p>
+<p class=""p5""><span class=""s1""><b>Misc.</b></span></p>
+<p class=""p6""><b>Honey</b></p>
+<p class=""p6""><b>Sliced Almonds</b></p>
+<p class=""p6""><b>Hot Mustard</b></p>
+<p class=""p6""><b>Applesauce</b></p>
+<p class=""p6""><b>Health Valley Granola Bars</b></p>
+<p class=""p6""><b>A-1 Steak Sauce</b></p>
+<p class=""p6""><b>Dill Pickles</b></p>
+<p class=""p6""><b>Sugar Free Maple Syrup</b></p>
+<p class=""p6""><b>Pumpkin Butter</b></p>
+<p class=""p6""><b>Craisins</b></p>
+<p class=""p4""><b></b><br></p>
+
+</body>
+</html>"
+"2","<!DOCTYPE html PUBLIC ""-//W3C//DTD HTML 4.01//EN"" ""http://www.w3.org/TR/html4/strict.dtd"">
+<html>
+<head>
+  <meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8"">
+  <meta http-equiv=""Content-Style-Type"" content=""text/css"">
+  <title></title>
+  <meta name=""Generator"" content=""Cocoa HTML Writer"">
+  <meta name=""CocoaVersion"" content=""1138"">
+  <style type=""text/css"">
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: center; font: 18.0px Helvetica}
+    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: center; font: 12.0px Helvetica; min-height: 14.0px}
+    p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; font: 18.0px Helvetica}
+    p.p4 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; min-height: 14.0px}
+    p.p5 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; color: #ff1f17}
+    p.p6 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; color:#fff}
+    p.p7 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; color: #ff1f17; min-height: 14.0px}
+    p.p8 {margin: 0.0px 0.0px 0.0px 0.0px; font: 17.0px Helvetica}
+    p.p9 {margin: 0.0px 0.0px 0.0px 0.0px; font: 18.0px Helvetica; min-height: 22.0px}
+   
+  </style>
+</head>
+<body>
+    
+<p class=""p4""><b></b><br></p>
+<p class=""p5""><span class=""s1""><b>Fruits</b></span></p>
+<p class=""p6""><b>Grapes</b></p>
+<p class=""p6""><b>Strawberries</b></p>
+<p class=""p6""><b>Bananas</b></p>
+<p class=""p6""><b>Dried Apricots</b></p>
+<p class=""p6""><b>Green Apples</b></p>
+<p class=""p7""><span class=""s1""><b></b></span><br></p>
+<p class=""p5""><span class=""s1""><b>Vegetables</b></span></p>
+<p class=""p6""><b>Broccoli</b></p>
+<p class=""p6""><b>Asparagus</b></p>
+<p class=""p6""><b>Mixed Green Salad</b></p>
+<p class=""p6""><b>Lettuce</b></p>
+<p class=""p6""><b>Tomatoes</b></p>
+<p class=""p6""><b>Onions</b></p>
+<p class=""p6""><b>Edamame</b></p>
+<p class=""p6""><b>Frozen Mixed Vegetables</b></p>
+<p class=""p6""><b>Zucchini</b></p>
+<p class=""p6""><b>Portobello Mushrooms</b></p>
+<p class=""p7""><span class=""s1""><b></b></span><br></p>
+<p class=""p5""><span class=""s1""><b>Protein</b></span></p>
+<p class=""p6""><b>Salmon Steak</b></p>
+<p class=""p6""><b>Top Round or Sirloin Steak</b></p>
+<p class=""p6""><b>Turkey Burgers</b></p>
+<p class=""p6""><b>Turkey Bacon</b></p>
+<p class=""p6""><b>Grilled Chicken Breasts</b></p>
+<p class=""p6""><b>Roasted Turkey Breast</b></p>
+<p class=""p6""><b>Pork Chops</b></p>
+<p class=""p7""><span class=""s1""><b></b></span><br></p>
+<p class=""p5""><span class=""s1""><b>Dairy</b></span></p>
+<p class=""p6""><b>Fat Free Mozzarella Cheese</b></p>
+<p class=""p6""><b>Fat Free / 1% Cottage Cheese</b></p>
+<p class=""p7""><span class=""s1""><b></b></span><br></p>
+<p class=""p5""><span class=""s1""><b>Grains</b></span></p>
+<p class=""p6""><b>Cous Cous</b></p>
+<p class=""p6""><b>Whole Wheat Wraps</b></p>
+<p class=""p6""><b>Whole Wheat Buns</b></p>
+<p class=""p7""><span class=""s1""><b></b></span><br></p>
+<p class=""p5""><span class=""s1""><b>Misc.</b></span></p>
+<p class=""p6""><b>Cous Cous</b></p>
+<p class=""p6""><b>BBQ Sauce</b></p>
+<p class=""p6""><b>Crushed Almonds</b></p>
+<p class=""p6""><b>Applesauce</b></p>
+<p class=""p6""><b>Light Soy Sauce</b></p>
+<p class=""p6""><b>Cranberry Sauce</b></p>
+<p class=""p6""><b>Cajun Spices</b></p>
+<p class=""p4""><b></b><br></p>
+
+</body>
+</html>"
+"3","<!DOCTYPE html PUBLIC ""-//W3C//DTD HTML 4.01//EN"" ""http://www.w3.org/TR/html4/strict.dtd"">
+<html>
+<head>
+  <meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8"">
+  <meta http-equiv=""Content-Style-Type"" content=""text/css"">
+  <title></title>
+  <meta name=""Generator"" content=""Cocoa HTML Writer"">
+  <meta name=""CocoaVersion"" content=""1138"">
+  <style type=""text/css"">
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: center; font: 18.0px Helvetica}
+    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: center; font: 12.0px Helvetica; min-height: 14.0px}
+    p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; font: 18.0px Helvetica}
+    p.p4 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; min-height: 14.0px}
+    p.p5 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; color: #ff1f17}
+    p.p6 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; color:#fff}
+    p.p7 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; color: #ff1f17; min-height: 14.0px}
+    p.p8 {margin: 0.0px 0.0px 0.0px 0.0px; font: 17.0px Helvetica}
+    p.p9 {margin: 0.0px 0.0px 0.0px 0.0px; font: 18.0px Helvetica; min-height: 22.0px}
+   
+  </style>
+</head>
+<body>
+    
+<p class=""p4""><b></b><br></p>
+<p class=""p5""><span class=""s1""><b>Fruits</b></span></p>
+<p class=""p6""><b>Bananas</b></p>
+<p class=""p6""><b>Grapes</b></p>
+<p class=""p6""><b>Blueberries</b></p>
+<p class=""p7""><span class=""s1""><b></b></span><br></p>
+<p class=""p7""><span class=""s1""><b></b></span><br></p>
+<p class=""p5""><span class=""s1""><b>Vegetables</b></span></p>
+<p class=""p6""><b>Onions</b></p>
+<p class=""p6""><b>Peppers</b></p>
+<p class=""p6""><b>Portobello Mushrooms</b></p>
+<p class=""p6""><b>Lettuce</b></p>
+<p class=""p6""><b>Tomatoes</b></p>
+<p class=""p6""><b>Edamame</b></p>
+<p class=""p6""><b>Broccoli</b></p>
+<p class=""p6""><b>Mixed Frozen Vegetables</b></p>
+<p class=""p7""><span class=""s1""><b></b></span><br></p>
+<p class=""p5""><span class=""s1""><b>Protein</b></span></p>
+<p class=""p6""><b>Chicken Breast</b></p>
+<p class=""p6""><b>Top Round or Sirloin Steak</b></p>
+<p class=""p6""><b>Sliced Roasted Turkey</b></p>
+<p class=""p6""><b>Ahi Tuna</b></p>
+<p class=""p6""><b>Turkey Burgers</b></p>
+<p class=""p6""><b>Pork Chops</b></p>
+<p class=""p7""><span class=""s1""><b></b></span><br></p>
+<p class=""p5""><span class=""s1""><b>Dairy</b></span></p>
+<p class=""p6""><b>Fat Free Cottage / Ricotta Cheese</b></p>
+<p class=""p7""><span class=""s1""><b></b></span><br></p>
+<p class=""p5""><span class=""s1""><b>Grains</b></span></p>
+<p class=""p6""><b>Whole Wheat Wraps</b></p>
+<p class=""p6""><b>Whole Wheat Waffles</b></p>
+<p class=""p6""><b>Cous Cous</b></p>
+<p class=""p7""><span class=""s1""><b></b></span><br></p>
+<p class=""p5""><span class=""s1""><b>Misc.</b></span></p>
+<p class=""p6""><b>Health Valley Granola Bars</b></p>
+<p class=""p6""><b>Pickles</b></p>
+<p class=""p6""><b>Fat Free Cool Whip</b></p>
+<p class=""p6""><b>Apple Sauce</b></p>
+<p class=""p4""><b></b><br></p>
+<p class=""p4""><b></b><br></p>
+
+
+</body>
+</html>"
+"4","<!DOCTYPE html PUBLIC ""-//W3C//DTD HTML 4.01//EN"" ""http://www.w3.org/TR/html4/strict.dtd"">
+<html>
+<head>
+  <meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8"">
+  <meta http-equiv=""Content-Style-Type"" content=""text/css"">
+  <title></title>
+  <meta name=""Generator"" content=""Cocoa HTML Writer"">
+  <meta name=""CocoaVersion"" content=""1138"">
+  <style type=""text/css"">
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: center; font: 18.0px Helvetica}
+    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: center; font: 12.0px Helvetica; min-height: 14.0px}
+    p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; font: 18.0px Helvetica}
+    p.p4 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; min-height: 14.0px}
+    p.p5 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; color: #ff1f17}
+    p.p6 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; color:#fff}
+    p.p7 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; color: #ff1f17; min-height: 14.0px}
+    p.p8 {margin: 0.0px 0.0px 0.0px 0.0px; font: 17.0px Helvetica}
+    p.p9 {margin: 0.0px 0.0px 0.0px 0.0px; font: 18.0px Helvetica; min-height: 22.0px}
+   
+  </style>
+</head>
+<body>
+    
+<p class=""p4""><b></b><br></p>
+<p class=""p5""><span class=""s1""><b>Fruits</b></span></p>
+<p class=""p6""><b>Bananas</b></p>
+<p class=""p6""><b>Strawberries</b></p>
+<p class=""p6""><b>Peaches</b></p>
+<p class=""p6""><b>Dried Apricots</b></p>
+<p class=""p6""><b>Apples</b></p>
+<p class=""p6""><b>Blueberries</b></p>
+<p class=""p6""><b>Grapes</b></p>
+<p class=""p7""><span class=""s1""><b></b></span><br></p>
+<p class=""p5""><span class=""s1""><b>Vegetables</b></span></p>
+<p class=""p6""><b>Asparagus</b></p>
+<p class=""p6""><b>Mushrooms</b></p>
+<p class=""p6""><b>Tomatoes</b></p>
+<p class=""p6""><b>Peppers</b></p>
+<p class=""p6""><b>Garlic</b></p>
+<p class=""p6""><b>Lemon</b></p>
+<p class=""p6""><b>Green Salad</b></p>
+<p class=""p6""><b>Onions</b></p>
+<p class=""p7""><span class=""s1""><b></b></span><br></p>
+<p class=""p5""><span class=""s1""><b>Protein</b></span></p>
+<p class=""p6""><b>Turkey Sausage</b></p>
+<p class=""p6""><b>Turkey Bacon</b></p>
+<p class=""p6""><b>Chicken Breast</b></p>
+<p class=""p6""><b>Shrimp</b></p>
+<p class=""p6""><b>Filet of Sole</b></p>
+<p class=""p6""><b>Top Round or Sirloin Steak</b></p>
+<p class=""p7""><span class=""s1""><b></b></span><br></p>
+<p class=""p5""><span class=""s1""><b>Dairy</b></span></p>
+<p class=""p6""><b>Fat Free Mozzarella Cheese</b></p>
+<p class=""p6""><b>Fat Free Cottage Cheese</b></p>
+<p class=""p7""><span class=""s1""><b></b></span><br></p>
+<p class=""p5""><span class=""s1""><b>Grains</b></span></p>
+<p class=""p6""><b>English Muffins</b></p>
+<p class=""p6""><b>Whole Wheat Wraps</b></p>
+<p class=""p6""><b>Angel Hair Pasta</b></p>
+<p class=""p6""><b>Cous Cous</b></p>
+<p class=""p7""><span class=""s1""><b></b></span><br></p>
+<p class=""p5""><span class=""s1""><b>Misc.</b></span></p>
+<p class=""p6""><b>Carob or Bitter Sweet Chocolate Chips</b></p>
+<p class=""p4""><b></b><br></p>
+<p class=""p4""><b></b><br></p>
+
+
+
+</body>
+</html>"
+"5","<!DOCTYPE html PUBLIC ""-//W3C//DTD HTML 4.01//EN"" ""http://www.w3.org/TR/html4/strict.dtd"">
+<html>
+<head>
+  <meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8"">
+  <meta http-equiv=""Content-Style-Type"" content=""text/css"">
+  <title></title>
+  <meta name=""Generator"" content=""Cocoa HTML Writer"">
+  <meta name=""CocoaVersion"" content=""1138"">
+  <style type=""text/css"">
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: center; font: 18.0px Helvetica}
+    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: center; font: 12.0px Helvetica; min-height: 14.0px}
+    p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; font: 18.0px Helvetica}
+    p.p4 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; min-height: 14.0px}
+    p.p5 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; color: #ff1f17}
+    p.p6 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; color:#fff}
+    p.p7 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; color: #ff1f17; min-height: 14.0px}
+    p.p8 {margin: 0.0px 0.0px 0.0px 0.0px; font: 17.0px Helvetica}
+    p.p9 {margin: 0.0px 0.0px 0.0px 0.0px; font: 18.0px Helvetica; min-height: 22.0px}
+   
+  </style>
+</head>
+<body>
+    
+<p class=""p4""><b></b><br></p>
+<p class=""p5""><span class=""s1""><b>Fruits</b></span></p>
+<p class=""p6""><b>Bananas</b></p>
+<p class=""p6""><b>Blueberries</b></p>
+<p class=""p6""><b>Grapes</b></p>
+<p class=""p6""><b>Peaches</b></p>
+<p class=""p7""><span class=""s1""><b></b></span><br></p>
+<p class=""p5""><span class=""s1""><b>Vegetables</b></span></p>
+<p class=""p6""><b>Broccoli</b></p>
+<p class=""p6""><b>Edamame</b></p>
+<p class=""p6""><b>Mixed Frozen Vegetables</b></p>
+<p class=""p6""><b>Lettuce</b></p>
+<p class=""p6""><b>Tomatoes</b></p>
+<p class=""p6""><b>Portobello Mushrooms</b></p>
+<p class=""p6""><b>Onions</b></p>
+<p class=""p6""><b>Red Peppers</b></p>
+<p class=""p6""><b>Garlic</b></p>
+<p class=""p7""><span class=""s1""><b></b></span><br></p>
+<p class=""p5""><span class=""s1""><b>Protein</b></span></p>
+<p class=""p6""><b>Chicken Breast</b></p>
+<p class=""p6""><b>Ahi Tuna</b></p>
+<p class=""p6""><b>Turkey Sausage</b></p>
+<p class=""p6""><b>Turkey Burgers</b></p>
+<p class=""p7""><span class=""s1""><b></b></span><br></p>
+<p class=""p5""><span class=""s1""><b>Dairy</b></span></p>
+<p class=""p6""><b>Fat Free Cottage Cheese or Ricotta Cheese</b></p>
+<p class=""p6""><b>Fat Free Swiss Cheese Slices</b></p>
+<p class=""p7""><span class=""s1""><b></b></span><br></p>
+<p class=""p5""><span class=""s1""><b>Grains</b></span></p>
+<p class=""p6""><b>Cous Cous</b></p>
+<p class=""p6""><b>Whole Wheat Wraps</b></p>
+<p class=""p6""><b>Angel Hair Pasta</b></p>
+<p class=""p7""><span class=""s1""><b></b></span><br></p>
+<p class=""p5""><span class=""s1""><b>Misc.</b></span></p>
+<p class=""p6""><b>Health Valley Granola Bars</b></p>
+<p class=""p6""><b>Applesauce</b></p>
+<p class=""p6""><b>Molly McButter</b></p>
+<p class=""p6""><b>Pumpkin Butter</b></p>
+<p class=""p4""><b></b><br></p>
+
+
+
+</body>
+</html>"
+"6","<!DOCTYPE html PUBLIC ""-//W3C//DTD HTML 4.01//EN"" ""http://www.w3.org/TR/html4/strict.dtd"">
+<html>
+<head>
+  <meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8"">
+  <meta http-equiv=""Content-Style-Type"" content=""text/css"">
+  <title></title>
+  <meta name=""Generator"" content=""Cocoa HTML Writer"">
+  <meta name=""CocoaVersion"" content=""1138"">
+  <style type=""text/css"">
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: center; font: 18.0px Helvetica}
+    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: center; font: 12.0px Helvetica; min-height: 14.0px}
+    p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; font: 18.0px Helvetica}
+    p.p4 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; min-height: 14.0px}
+    p.p5 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; color: #ff1f17}
+    p.p6 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; color:#fff}
+    p.p7 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; color: #ff1f17; min-height: 14.0px}
+    p.p8 {margin: 0.0px 0.0px 0.0px 0.0px; font: 17.0px Helvetica}
+    p.p9 {margin: 0.0px 0.0px 0.0px 0.0px; font: 18.0px Helvetica; min-height: 22.0px}
+   
+  </style>
+</head>
+<body>
+    
+<p class=""p4""><b></b><br></p>
+<p class=""p5""><span class=""s1""><b>Fruits</b></span></p>
+<p class=""p6""><b>Grapes</b></p>
+<p class=""p6""><b>Strawberries</b></p>
+<p class=""p6""><b>Bananas</b></p>
+<p class=""p6""><b>Peaches</b></p>
+<p class=""p7""><span class=""s1""><b></b></span><br></p>
+<p class=""p5""><span class=""s1""><b>Vegetables</b></span></p>
+<p class=""p6""><b>Lettuce</b></p>
+<p class=""p6""><b>Tomatoes</b></p>
+<p class=""p6""><b>Broccoli</b></p>
+<p class=""p6""><b>Garlic</b></p>
+<p class=""p6""><b>Portobello Mushrooms</b></p>
+<p class=""p6""><b>Spinach</b></p>
+<p class=""p6""><b>Onions</b></p>
+<p class=""p6""><b>Red Peppers</b></p>
+<p class=""p7""><span class=""s1""><b></b></span><br></p>
+<p class=""p5""><span class=""s1""><b>Protein</b></span></p>
+<p class=""p6""><b>Turkey Burgers</b></p>
+<p class=""p6""><b>Salmon Steak</b></p>
+<p class=""p6""><b>Chicken Breast</b></p>
+<p class=""p6""><b>Shrimp</b></p>
+<p class=""p6""><b>Roasted Turkey Breast</b></p>
+<p class=""p6""><b>Ahi Tuna Steak</b></p>
+<p class=""p6""><b>Turkey Sausage</b></p>
+<p class=""p7""><span class=""s1""><b></b></span><br></p>
+<p class=""p5""><span class=""s1""><b>Dairy</b></span></p>
+<p class=""p6""><b>Fat Free Swiss Cheese Slices</b></p>
+<p class=""p6""><b>Fat Free Cottage Cheese</b></p>
+<p class=""p7""><span class=""s1""><b></b></span><br></p>
+<p class=""p5""><span class=""s1""><b>Grains</b></span></p>
+<p class=""p6""><b>Whole Wheat Wraps</b></p>
+<p class=""p6""><b>Whole Wheat Waffles</b></p>
+<p class=""p7""><span class=""s1""><b></b></span><br></p>
+<p class=""p5""><span class=""s1""><b>Misc.</b></span></p>
+<p class=""p6""><b>Apple Sauce</b></p>
+<p class=""p6""><b>Cranberry Sauce</b></p>
+<p class=""p4""><b></b><br></p>
+
+
+
+</body>
+</html>"
+"7","<!DOCTYPE html PUBLIC ""-//W3C//DTD HTML 4.01//EN"" ""http://www.w3.org/TR/html4/strict.dtd"">
+<html>
+<head>
+  <meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8"">
+  <meta http-equiv=""Content-Style-Type"" content=""text/css"">
+  <title></title>
+  <meta name=""Generator"" content=""Cocoa HTML Writer"">
+  <meta name=""CocoaVersion"" content=""1138"">
+  <style type=""text/css"">
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: center; font: 18.0px Helvetica}
+    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: center; font: 12.0px Helvetica; min-height: 14.0px}
+    p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; font: 18.0px Helvetica}
+    p.p4 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; min-height: 14.0px}
+    p.p5 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; color: #ff1f17}
+    p.p6 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; color:#fff}
+    p.p7 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; color: #ff1f17; min-height: 14.0px}
+    p.p8 {margin: 0.0px 0.0px 0.0px 0.0px; font: 17.0px Helvetica}
+    p.p9 {margin: 0.0px 0.0px 0.0px 0.0px; font: 18.0px Helvetica; min-height: 22.0px}
+   
+  </style>
+</head>
+<body>
+    
+<p class=""p4""><b></b><br></p>
+<p class=""p5""><span class=""s1""><b>Fruits</b></span></p>
+<p class=""p6""><b>Cut Pineapple</b></p>
+<p class=""p6""><b>Oranges</b></p>
+<p class=""p6""><b>Bananas</b></p>
+<p class=""p6""><b>Grapes</b></p>
+<p class=""p6""><b>Peaches</b></p>
+<p class=""p6""><b>Mango</b></p>
+<p class=""p7""><span class=""s1""><b></b></span><br></p>
+<p class=""p5""><span class=""s1""><b>Vegetables</b></span></p>
+<p class=""p6""><b>Salad Greens</b></p>
+<p class=""p6""><b>Spinach</b></p>
+<p class=""p6""><b>Tomatoes</b></p>
+<p class=""p6""><b>Red Peppers</b></p>
+<p class=""p6""><b>Onions</b></p>
+<p class=""p6""><b>Zucchini</b></p>
+<p class=""p6""><b>Squash</b></p>
+<p class=""p6""><b>Broccoli</b></p>
+<p class=""p7""><span class=""s1""><b></b></span><br></p>
+<p class=""p5""><span class=""s1""><b>Protein</b></span></p>
+<p class=""p6""><b>Halibut Steak</b></p>
+<p class=""p6""><b>Chicken Breasts</b></p>
+<p class=""p6""><b>Turkey Sausage</b></p>
+<p class=""p6""><b>Turkey Bacon</b></p>
+<p class=""p6""><b>Top Round or Sirloin Steak</b></p>
+<p class=""p6""><b>Ahi Tuna Steak</b></p>
+<p class=""p7""><span class=""s1""><b></b></span><br></p>
+<p class=""p5""><span class=""s1""><b>Dairy</b></span></p>
+<p class=""p6""><b>Fat Free Cottage Cheese</b></p>
+<p class=""p6""><b>Grated Parmesan Cheese</b></p>
+<p class=""p7""><span class=""s1""><b></b></span><br></p>
+<p class=""p5""><span class=""s1""><b>Grains</b></span></p>
+<p class=""p6""><b>English Muffins</b></p>
+<p class=""p6""><b>Cous Cous</b></p>
+<p class=""p6""><b>Whole Wheat Wraps</b></p>
+<p class=""p7""><span class=""s1""><b></b></span><br></p>
+<p class=""p5""><span class=""s1""><b>Misc.</b></span></p>
+<p class=""p6""><b>Health Valley Granola Bars</b></p>
+<p class=""p6""><b>Dill Pickles</b></p>
+<p class=""p6""><b>Black Peppercorns</b></p>
+<p class=""p4""><b></b><br></p>
+
+
+
+
+</body>
+</html>"
+"8","<!DOCTYPE html PUBLIC ""-//W3C//DTD HTML 4.01//EN"" ""http://www.w3.org/TR/html4/strict.dtd"">
+<html>
+<head>
+  <meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8"">
+  <meta http-equiv=""Content-Style-Type"" content=""text/css"">
+  <title></title>
+  <meta name=""Generator"" content=""Cocoa HTML Writer"">
+  <meta name=""CocoaVersion"" content=""1138"">
+  <style type=""text/css"">
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: center; font: 18.0px Helvetica}
+    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: center; font: 12.0px Helvetica; min-height: 14.0px}
+    p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; font: 18.0px Helvetica}
+    p.p4 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; min-height: 14.0px}
+    p.p5 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; color: #ff1f17}
+    p.p6 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; color:#fff}
+    p.p7 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; color: #ff1f17; min-height: 14.0px}
+    p.p8 {margin: 0.0px 0.0px 0.0px 0.0px; font: 17.0px Helvetica}
+    p.p9 {margin: 0.0px 0.0px 0.0px 0.0px; font: 18.0px Helvetica; min-height: 22.0px}
+   
+  </style>
+</head>
+<body>
+    
+<p class=""p4""><b></b><br></p>
+<p class=""p5""><span class=""s1""><b>Fruits</b></span></p>
+<p class=""p6""><b>Bananas</b></p>
+<p class=""p6""><b>Strawberries</b></p>
+<p class=""p6""><b>Apples</b></p>
+<p class=""p6""><b>Grapes</b></p>
+<p class=""p6""><b>Dried Apricots</b></p>
+<p class=""p6""><b>Pears</b></p>
+<p class=""p7""><span class=""s1""><b></b></span><br></p>
+<p class=""p5""><span class=""s1""><b>Vegetables</b></span></p>
+<p class=""p6""><b>Spinach</b></p>
+<p class=""p6""><b>Lemons</b></p>
+<p class=""p6""><b>Asparagus</b></p>
+<p class=""p6""><b>Cabbage</b></p>
+<p class=""p6""><b>Portobello Mushrooms</b></p>
+<p class=""p6""><b>Onions</b></p>
+<p class=""p6""><b>Tomatoes</b></p>
+<p class=""p6""><b>Red Peppers</b></p>
+<p class=""p7""><span class=""s1""><b></b></span><br></p>
+<p class=""p5""><span class=""s1""><b>Protein</b></span></p>
+<p class=""p6""><b>Shrimp</b></p>
+<p class=""p6""><b>Chicken Breast</b></p>
+<p class=""p6""><b>Top Round or Sirloin Steak</b></p>
+<p class=""p6""><b>Filet of Sole</b></p>
+<p class=""p6""><b>Pork Chops</b></p>
+<p class=""p6""><b>Roasted Turkey Breast</b></p>
+<p class=""p6""><b>Ahi Tuna Steak</b></p>
+<p class=""p6""><b>Turkey Bacon</b></p>
+<p class=""p7""><span class=""s1""><b></b></span><br></p>
+<p class=""p5""><span class=""s1""><b>Dairy</b></span></p>
+<p class=""p6""><b>Fat Free Cottage Cheese</b></p>
+<p class=""p6""><b>Fat Free Swiss Cheese</b></p>
+<p class=""p7""><span class=""s1""><b></b></span><br></p>
+<p class=""p5""><span class=""s1""><b>Grains</b></span></p>
+<p class=""p6""><b>Whole Wheat Wraps</b></p>
+<p class=""p6""><b>Angel Hair Pasta</b></p>
+<p class=""p6""><b>Whole Wheat Waffles</b></p>
+<p class=""p7""><span class=""s1""><b></b></span><br></p>
+<p class=""p5""><span class=""s1""><b>Misc.</b></span></p>
+<p class=""p6""><b>Sun Dried Tomatoes</b></p>
+<p class=""p6""><b>Sauerkraut</b></p>
+<p class=""p6""><b>Applesauce</b></p>
+<p class=""p6""><b>Pumpkin Butter</b></p>
+<p class=""p6""><b>Wasabi</b></p>
+<p class=""p4""><b></b><br></p>
+
+
+
+
+</body>
+</html>"
+"10","<!DOCTYPE html PUBLIC ""-//W3C//DTD HTML 4.01//EN"" ""http://www.w3.org/TR/html4/strict.dtd"">
+<html>
+<head>
+  <meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8"">
+  <meta http-equiv=""Content-Style-Type"" content=""text/css"">
+  <title></title>
+  <meta name=""Generator"" content=""Cocoa HTML Writer"">
+  <meta name=""CocoaVersion"" content=""1138"">
+  <style type=""text/css"">
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: center; font: 18.0px Helvetica}
+    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: center; font: 12.0px Helvetica; min-height: 14.0px}
+    p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; font: 18.0px Helvetica}
+    p.p4 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; min-height: 14.0px}
+    p.p5 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; color: #ff1f17}
+    p.p6 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; color:#fff}
+    p.p7 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; color: #ff1f17; min-height: 14.0px}
+    p.p8 {margin: 0.0px 0.0px 0.0px 0.0px; font: 17.0px Helvetica}
+    p.p9 {margin: 0.0px 0.0px 0.0px 0.0px; font: 18.0px Helvetica; min-height: 22.0px}
+   
+  </style>
+</head>
+<body>
+    
+
+<p class=""p5""><span class=""s1""><b>Vegetables</b></span></p>
+<p class=""p6""><b>Sweet Potatoes</b></p>
+<p class=""p7""><span class=""s1""><b></b></span><br></p>
+<p class=""p5""><span class=""s1""><b>Protein</b></span></p>
+<p class=""p6""><b>Egg Whites (egg substitutes)</b></p>
+<p class=""p6""><b>Canned Tuna in Water</b></p>
+<p class=""p6""><b>Beef / Turkey Jerky (Ostrim)</b></p>
+<p class=""p6""><b>Frozen Chicken Breasts</b></p>
+<p class=""p6""><b>XLR8 Whey Protein</b></p>
+<p class=""p7""><span class=""s1""><b></b></span><br></p>
+<p class=""p5""><span class=""s1""><b>Dairy</b></span></p>
+<p class=""p6""><b>Skim / Nonfat Milk</b></p>
+<p class=""p6""><b>Nonfat Greek Yogurt</b></p>
+<p class=""p6""><b>Laughing Cow / Fat Free String Cheese</b></p>
+<p class=""p7""><span class=""s1""><b></b></span><br></p>
+<p class=""p5""><span class=""s1""><b>Grains</b></span></p>
+<p class=""p6""><b>Slow Cook Oatmeal</b></p>
+<p class=""p6""><b>High Protein Cereal (Kashi Go Lean)</b></p>
+<p class=""p6""><b>Whole Wheat Bread</b></p>
+<p class=""p6""><b>Frozen Whole Wheat Waffles</b></p>
+<p class=""p6""><b>Brown Rice</b></p>
+<p class=""p7""><span class=""s1""><b></b></span><br></p>
+<p class=""p5""><span class=""s1""><b>Misc.</b></span></p>
+<p class=""p6""><b>Peanut Butter</b></p>
+<p class=""p6""><b>Protein Bars (Pure Protein)</b></p>
+<p class=""p6""><b>Popcorn</b></p>
+<p class=""p6""><b>Pretzels</b></p>
+<p class=""p6""><b>Salsa / Hot Sauce</b></p>
+<p class=""p6""><b>Saltine Crackers</b></p>
+<p class=""p6""><b>Walnuts</b></p>
+<p class=""p6""><b>Cinnamon</b></p>
+<p class=""p6""><b>Mrs. Dash Seasoning</b></p>
+<p class=""p6""><b>Low Fat Salad Dressing</b></p>
+<p class=""p6""><b>Extra Virgin Olive Oil</b></p>
+<p class=""p6""><b>Red Wine Vinegar</b></p>
+<p class=""p6""><b>Bottled Water</b></p>
+<p class=""p6""><b>Dr. C's Omega-3's</b></p>
+<p class=""p6""><b>Fat Free Mayo</b></p>
+<p class=""p6""><b>Tomato Sauce</b></p>
+<p class=""p6""><b>Sugar Free Jelly</b></p>
+<p class=""p6""><b>Coconut</b></p>
+<p class=""p6""><b>Pam Nonfat Cooking Spray</b></p>
+
+</body>
+</html>"

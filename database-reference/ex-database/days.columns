@@ -1,0 +1,4 @@
+"name","type","length","leftDigits","rightDigits"
+"id","INTEGER","2","2","0"
+"training_Namber","INTEGER","2","2","0"
+"passed","INTEGER","1","1","0"

@@ -1,0 +1,4 @@
+"name","type","length","leftDigits","rightDigits"
+"id","STRING","0","0","0"
+"day","STRING","0","0","0"
+"week","STRING","0","0","0"

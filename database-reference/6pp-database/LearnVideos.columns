@@ -1,0 +1,7 @@
+"name","type","length","leftDigits","rightDigits"
+"id","STRING","0","0","0"
+"title","STRING","0","0","0"
+"content","STRING","0","0","0"
+"thumbnail","STRING","0","0","0"
+"link","STRING","0","0","0"
+"youtube_id","STRING","0","0","0"

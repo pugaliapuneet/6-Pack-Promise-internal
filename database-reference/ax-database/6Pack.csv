@@ -1,0 +1,1346 @@
+"id","Day","Breakfast","Snack1","Lunch","Snack2","Dinner","Snack3"
+"1","1","<p class=""eatPeriod"">Breakfast</p>
+<p class=""p2""><b>Bowl of Oatmeal w/ One Scoop Protein Powder</b></p>
+<p class=""p2""><b>High Grade Omega-3’s</b></p>
+<p class=""p2""><b>Glass of Skim Milk</b></p>
+<p class=""p3""><br></p>","<p class=""eatPeriod"">Snack #1</p>
+<p class=""p2""><b>Greek Yogurt (Chobani) with Honey and Almonds</b></b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p3""><br></b></b></p>","<p class=""eatPeriod"">Lunch</p>
+<p class=""p2""><b>Mixed Green Salad with Grilled Chicken, Pineapple, and Orange Slices</b></p>
+<p class=""p2""><b>Bag of Pretzels</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p3""><br></p>","<p class=""eatPeriod"">Snack #2</p>
+<p class=""p2""><b>Protein Shake</b></p>
+<p class=""p3""><br></p>","<p class=""eatPeriod"">Dinner</p>
+<p class=""p2""><b>Grilled Halibut Steak w/ squeezed Lemon</b></p>
+<p class=""p2""><b>Brown Rice</b></p>
+<p class=""p2""><b>Sauteed Spinach</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p3""><br></p>","<p class=""eatPeriod"">Snack #3</p>
+<p class=""p2""><b>Protein Shake OR</b></p>
+<p class=""p2""><b>12 Ounce glass of Skim Milkor 1% Skim Milk</b></p>
+<p class=""p2""><b>Small Banana / Berries</b></p>
+<p class=""p3""><br></p>"
+"2","2","<p class=""eatPeriod"">Breakfast</p>
+<p class=""p2""><b>Breakfast Smoothie (2 Cups of Skim Milk, ½ Banana, Fresh Strawberries, and 1 Scoop Protein Powder)</b></p>
+<p class=""p2""><b>High Grade Omega-3’s</b></p>
+<p class=""p3""><br></p>","<p class=""eatPeriod"">Snack #1</b></p>
+<p class=""p2""><b>Protein Shake</b></p>","<p class=""eatPeriod"">Lunch</b></p>
+<p class=""p2""><b>Turkey Breast on a Whole Wheat Wrap w/ Hot Mustard and Fat Free Swiss</b></p>
+<p class=""p2""><b>Fat Free Yogurt</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><span class=""s1""></span><br></p>","<p class=""eatPeriod"">Snack #2</b></p>
+<p class=""p2""><b>Peanut Butter</b></p>
+<p class=""p2""><b>Sliced Green Apple</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>","<p class=""eatPeriod"">Dinner</b></p>
+<p class=""p2""><b>Grilled Pork Chop</b></p>
+<p class=""p2""><b>Applesauce</b></p>
+<p class=""p2""><b>Grilled Portobello Mushrooms</b></p>
+<p class=""p2""><b>Baked Sweet Potato</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><span class=""s1""></span><br></p>","<p class=""eatPeriod"">Snack #3</b></p>
+<p class=""p2""><b>Protein Shake OR</b></p>
+<p class=""p2""><b>No Fat Cottage Cheese / Ricotta Cheese with Cinnamon and a few Crushed Almonds</b></p>
+<p class=""p3""><br></p>"
+"3","3","<p class=""eatPeriod"">Snack #1</b></p>
+<p class=""p2""><b>Protein Shake</b></p>
+<p class=""p4""><br></p>
+","<p class=""eatPeriod"">Lunch</b></p>
+<p class=""p2""><b>Peanut Butter and Jelly Sandwich on Whole Wheat Bread</b></p>
+<p class=""p2""><b>Fat Free Yogurt</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>","<p class=""eatPeriod"">Lunch</b></p>
+<p class=""p2""><b>Peanut Butter and Jelly Sandwich on Whole Wheat Bread</b></p>
+<p class=""p2""><b>Fat Free Yogurt</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><span class=""s1""></span><br></p>","<p class=""eatPeriod"">Snack #2</p>
+<p class=""p2""><b>Turkey OR Beef Jerky</b></p>
+<p class=""p2""><b>Saltine Crackers</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>","<p class=""eatPeriod"">Dinner</p>
+<p class=""p2""><b>Fresh Pasta with Roasted Red Tomato Sauce and Grilled Oregano Chicken</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Snack #3</p>
+<p class=""p2""><b>Protein Shake OR</b></p>
+<p class=""p2""><b>1-2 pieces of Fat Free String Cheese</b></p>
+<p class=""p2""><b>Grapes</b></p>
+<p class=""p3""><br></p>"
+"4","4","<p class=""eatPeriod"">Breakfast</p>
+<p class=""p2""><b>Turkey Bacon</b></p>
+<p class=""p2""><b>Whole Wheat Toast</b></p>
+<p class=""p2""><b>Scrambled Egg Whites w/ Salsa</b></p>
+<p class=""p2""><b>Glass of Skim Milk</b></p>
+<p class=""p2""><b>High Grade Omega-3’s</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Snack #1</p>
+<p class=""p2""><b>1/2 Peanut Butter and Banana Sandwich on Whole Wheat Bread</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>","<p class=""eatPeriod"">Lunch</p>
+<p class=""p2""><b>Grilled Chicken on a Whole Wheat Wrap with Grilled Veggies</b></p>
+<p class=""p2""><b>Bag of Pretzels</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Snack #2</p>
+<p class=""p2""><b>1/2 Peanut Butter and Banana Sandwich on Whole Wheat Bread</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Dinner</p>
+<p class=""p2""><b>Grilled Sirloin Steak with Garlic and A-1</b></p>
+<p class=""p2""><b>Baked Sweet Potato</b></p>
+<p class=""p2""><b>Sauteed Broccoli</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Snack #3</p>
+<p class=""p2""><b>Protein Shake OR</b></p>
+<p class=""p2""><b>Thinly Sliced Roasted Turkey Wrapped Around a Pickle with Cayenne Pepper</b></p>
+<p class=""p4""><span class=""s1""></span><br></p>"
+"5","5","<p class=""eatPeriod"">Breakfast</p>
+<p class=""p2""><b>Egg Whites Scrambled with Fat Free Mozzarella and Salsa</b></p>
+<p class=""p2""><b>English Muffin</b></p>
+<p class=""p2""><b>Glass of Skim Milk</b></p>
+<p class=""p2""><b>High Grade Omega-3’s</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Snack #1</p>
+<p class=""p2""><b>Bag of Homemade Trail Mix (Coconut, Almonds, Kashi Go Lean cereal, Walnuts, a few Chocolate Chips)</b></p>","<p class=""eatPeriod"">Lunch</p>
+<p class=""p2""><b>Mixed Green Salad with Grilled Chicken, Pineapple, and Orange Slices</b></p>
+<p class=""p2""><b>Bag of Pretzels</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Snack #2</p>
+<p class=""p2""><b>Bag of Homemade Trail Mix (Coconut, Almonds, Kashi Go Lean cereal, Walnuts, a few Chocolate Chips)</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Dinner</p>
+<p class=""p2""><b>Grilled Chicken Breast with Roasted Apple /Onions</b></p>
+<p class=""p2""><b>Cous Cous</b></p>
+<p class=""p2""><b>Sweet Potato</b></p>
+<p class=""p2""><b>Mixed Grilled Veggies</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Snack #3</p>
+<p class=""p2""><b>Protein Shake OR</b></p>
+<p class=""p2""><b>12 Ounce Glass of Skim or 1% Milk</b></p>
+<p class=""p2""><b>Small Banana / Berries</b></p>
+<p class=""p4""><span class=""s1""></span><br></p>"
+"6","6","<p class=""eatPeriod"">Breakfast</p>
+<p class=""p2""><b>Whole Wheat Waffles with Sugar Free Maple Syrup</b></p>
+<p class=""p2""><b>Pumpkin Butter</b></p>
+<p class=""p2""><b>Glass of Skim Milk</b></p>
+<p class=""p2""><b>High Grade Omega-3’s</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Snack #1</p>
+<p class=""p2""><b>12 Ounce Glass of Skim or 1% Milk</b></p>
+<p class=""p2""><b>Small Banana /Berries</b></p>","<p class=""eatPeriod"">Lunch</p>
+<p class=""p2""><b>Tuna Fish Salad (use fat free mayo to prepare) on Whole Wheat pita w/ Craisins</b></p>
+<p class=""p2""><b>1 Apple</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Snack #2</p>
+<p class=""p2""><b>Protein Shake</b></p>","<p class=""eatPeriod"">Dinner</p>
+<p class=""p2""><b>Seared Ahi Tuna Steak with Black Peppercorns and Wasabi (no mayo)</b></p>
+<p class=""p2""><b>Jasmine Rice</b></p>
+<p class=""p2""><b>Wilted Spinach</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Snack #3</p>
+<p class=""p2""><b>Protein Shake OR</b></p>
+<p class=""p2""><b>Air Popped Popcorn with Drizzled Honey</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><br></p>"
+"7","7","<p class=""eatPeriod"">Breakfast</p>
+<p class=""p2""><b>Bowl of Oatmeal (add Cinnamon + Walnuts)</b></p>
+<p class=""p2""><b>Glass of Skim Milk</b></p>
+<p class=""p2""><b>Scrambled Egg Whites with Salsa</b></p>
+<p class=""p2""><b>High Grade Omega-3’s</b></p>
+<p class=""p4""><span class=""s1""></span><br></p>","<p class=""eatPeriod"">Snack #1</p>
+<p class=""p2""><b>1% Cottage Cheese</b></p>
+<p class=""p2""><b>Fresh Strawberries</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>","<p class=""eatPeriod"">Lunch</p>
+<p class=""p2""><b>Grilled Chicken on a Whole Wheat Wrap with Mango Slices and Black Pepper</b></p>
+<p class=""p2""><b>Fat Free Yogurt</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Snack #2</b></p>
+<p class=""p2""><b>Peanut Butter</b></p>
+<p class=""p2""><b>Sliced Green Apple</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>","<p class=""eatPeriod"">Dinner</p>
+<p class=""p2""><b>Baked Chicken Breast</b></p>
+<p class=""p2""><b>Sweet Potato Fries (baked in the oven with coating of PAM)</b></p>
+<p class=""p2""><b>Mixed Grilled Veggies</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><br></p>
+","<p class=""eatPeriod"">Snack #3</p>
+<p class=""p2""><b>Protein Shake OR</b></p>
+<p class=""p2""><b>Air Popped Popcorn with Garlic Powder and Hot Sauce</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><br></p>"
+"8","8","<p class=""eatPeriod"">Breakfast</p>
+<p class=""p2""><b>Bowl of Kashi Heart To Heart Cereal w/ Skim Milk</b></p>
+<p class=""p2""><b>High Grade Omega-3’s</b></p>
+<p class=""p2""><b>Fat Free Yogurt</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Snack #1</p>
+<p class=""p2""><b>25-30 Grapes</b></p>
+<p class=""p2""><b>Low Fat Mozzarella String Cheese</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Lunch</p>
+<p class=""p2""><b>Turkey Burger with Onions, Lettuce, Tomato, and Fat Free Swiss Cheese</b></p>
+<p class=""p2""><b>Fat Free Yogurt</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><span class=""s1""></span><br></p>","<p class=""eatPeriod"">Snack #2</p>
+<p class=""p2""><b>Turkey OR Beef Jerky</b></p>
+<p class=""p2""><b>Saltine Crackers</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>","<p class=""eatPeriod"">Dinner</p>
+<p class=""p2""><b>Grilled Salmon Steak (w/ Teriyaki Drizzle)</b></p>
+<p class=""p2""><b>Brown Rice</b></p>
+<p class=""p2""><b>Sauteed Broccoli</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><span class=""s1""></span><br></p>","<p class=""eatPeriod"">Snack #3</p>
+<p class=""p2""><b>Protein Shake OR</b></p>
+<p class=""p2""><b>1% Cottage Cheese</b></p>
+<p class=""p2""><b>Fresh Strawberries</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><span class=""s1""></span><br></p>"
+"9","9","<p class=""eatPeriod"">Breakfast</p>
+<p class=""p2""><b>Bowl of Oatmeal (add Cinnamon + Walnuts)</b></p>
+<p class=""p2""><b>Glass of Skim Milk</b></p>
+<p class=""p2""><b>Scrambled Egg Whites with Salsa</b></p>
+<p class=""p2""><b>High Grade Omega-3’s</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Snack #1</p>
+<p class=""p2""><b>A Bag of Pretzels with Spicy Mustard</b></p>
+<p class=""p2""><b>Fat Free Yogurt</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p6""><br></p>","<p class=""eatPeriod"">Lunch</p>
+<p class=""p2""><b>Grilled Chicken on a Whole Wheat Wrap with Onions and BBQ Sauce</b></p>
+<p class=""p2""><b>Fat Free Yogurt</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Snack #2</p>
+<p class=""p2""><b>1% Cottage Cheese</b></p>
+<p class=""p2""><b>1 ripe banana</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><br></p>
+","<p class=""eatPeriod"">Dinner</p>
+<p class=""p2""><b>Top Round or Grilled Sirloin Steak</b></p>
+<p class=""p2""><b>Baked Sweet Potato</b></p>
+<p class=""p2""><b>Grilled Asparagus</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Snack #3</p>
+<p class=""p2""><b>Protein Shake OR</b></p>
+<p class=""p2""><b>Greek Yogurt w/ Handful of Crushed Almonds</b></p>
+<p class=""p4""><span class=""s1""></span><br></p>"
+"10","10","<p class=""eatPeriod"">Breakfast</p>
+<p class=""p2""><b>Breakfast Smoothie (2 Cups of Skim Milk, ½ Banana, Fresh Strawberries, and 1 Scoop Protein Powder) High Grade Omega-3’s</b></p>
+<p class=""p4""><span class=""s1""></span><br></p>","<p class=""eatPeriod"">Snack #1</p>
+<p class=""p2""><b>Almonds and Apricots (mix about 10 dried Apricots with 20-25 Almonds in a bag)</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Lunch</p>
+<p class=""p2""><b>Mixed Green Salad with Grilled Salmon, Lemon, and Black Pepper</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Snack #2</p>
+<p class=""p2""><b>Turkey OR Beef Jerky</b></p>
+<p class=""p2""><b>Saltine Crackers</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>","<p class=""eatPeriod"">Dinner</p>
+<p class=""p2""><b>Grilled Salmon Steak (w/ Teriyaki Drizzle)</b></p>
+<p class=""p2""><b>Brown Rice</b></p>
+<p class=""p2""><b>Sauteed Broccoli</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Snack #3</p>
+<p class=""p2""><b>Protein Shake OR</b></p>
+<p class=""p2""><b>Turkey / Beef Jerky</b></p>
+<p class=""p2""><b>Bottled Water</b></p>
+<p class=""p4""><span class=""s1""></span><br></p>"
+"11","11","<p class=""eatPeriod"">Breakfast</p>
+<p class=""p2""><b>Whole Wheat Waffles w/ Applesauce</b></p>
+<p class=""p2""><b>High Grade Omega-3’s</b></p>
+<p class=""p2""><b>Protein Shake (Skim Milk and 1 Scoop XLR8 OR Whey Powder)</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Snack #1</p>
+<p class=""p2""><b>Greek Yogurt (Chobani) with Honey and Almonds</b></b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p3""><br></b></b></p>","<p class=""eatPeriod"">Lunch</p>
+<p class=""p2""><b>Tuna Fish Salad (made with fat free mayo) on Whole Wheat Bread with Lettuce, Tomato, and Onion</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Snack #2</p>
+<p class=""p2""><b>Peanut Butter</b></p>
+<p class=""p2""><b>Sliced Green Apple</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Dinner</p>
+<p class=""p2""><b>Turkey Burger on a Whole Wheat Bun with A-1 Steak Sauce</b></p>
+<p class=""p2""><b>Baked Sweet Potato Fries</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Snack #3</p>
+<p class=""p2""><b>Protein Shake OR</b></p>
+<p class=""p2""><b>Small Bowl of Kashi Go Lean (or other High Protein Cereal) in Nonfat / Skim Milk</b></p>
+<p class=""p4""><span class=""s1""></span><br></p>"
+"12","12","<p class=""eatPeriod"">Breakfast</p>
+<p class=""p2""><b>Whole Wheat Toast</b></p>
+<p class=""p2""><b>Egg White Souffle (5 Egg Whites Mixed in a Glass Bowl Microwave on High for 4 Minutes)</b></p>
+<p class=""p2""><b>High Grade Omega-3’s</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Snack #1</p>
+<p class=""p2""><b>Greek Yogurt (Chobani) with Honey and Almonds</b></p>
+<p class=""p2""><b>1 Apple</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><span class=""s1""></span><br></p>","<p class=""eatPeriod"">Lunch</p>
+<p class=""p2""><b>Sashimi Lunch over Brown Rice with Light Soy Sauce</b></p>
+<p class=""p2""><b>Edamame</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Snack #2</p>
+<p class=""p2""><b>Protein Shake</b></p>","<p class=""eatPeriod"">Dinner</p>
+<p class=""p2""><b>Cajun Chicken Breast</b></p>
+<p class=""p2""><b>Cous Cous</b></p>
+<p class=""p2""><b>Sweet Potato</b></p>
+<p class=""p2""><b>Mixed Grilled Veggies</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Snack #3</p>
+<p class=""p2""><b>Protein Shake OR</b></p>
+<p class=""p2""><b>1% Cottage Cheese</b></p>
+<p class=""p2""><b>Fresh Strawberries</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><br></p>"
+"13","13","<p class=""eatPeriod"">Breakfast</p>
+<p class=""p2""><b>Turkey Bacon</b></p>
+<p class=""p2""><b>Whole Wheat Toast</b></p>
+<p class=""p2""><b>Scrambled Egg Whites w/ Salsa</b></p>
+<p class=""p2""><b>Glass of Skim Milk</b></p>
+<p class=""p2""><b>High Grade Omega-3’s</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Lunch</b></p>
+<p class=""p2""><b>Peanut Butter and Jelly Sandwich on Whole Wheat Bread</b></p>
+<p class=""p2""><b>Fat Free Yogurt</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><span class=""s1""></span><br></p>","<p class=""eatPeriod"">Lunch</p>
+<p class=""p2""><b>Grilled Chicken on a Whole Wheat Wrap with Onions and BBQ Sauce</b></p>
+<p class=""p2""><b>Fat Free Yogurt</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><span class=""s1""></span><br></p>","<p class=""eatPeriod"">Snack #2</p>
+<p class=""p2""><b>Turkey OR Beef Jerky</b></p>
+<p class=""p2""><b>Saltine Crackers</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Dinner</p>
+<p class=""p2""><b>Roasted Turkey Breast</b></p>
+<p class=""p2""><b>Mashed Sweet Potatoes</b></p>
+<p class=""p2""><b>Cranberry Sauce</b></p>
+<p class=""p2""><b>Grilled Zucchini</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Snack #3</p>
+<p class=""p2""><b>Protein Shake OR</b></p>
+<p class=""p2""><b>Air Popped Popcorn with Ranch Powder</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><br></p>"
+"14","14","<p class=""eatPeriod"">Breakfast</p>
+<p class=""p2""><b>Bowl of Oatmeal (add Cinnamon + Walnuts)</b></p>
+<p class=""p2""><b>Glass of Skim Milk</b></p>
+<p class=""p2""><b>Scrambled Egg Whites</b></p>
+<p class=""p2""><b>High Grade Omega-3’s</b></p>
+<p class=""p4""><span class=""s1""></span><br></p>","<p class=""eatPeriod"">Snack #1</p>
+<p class=""p2""><b>Protein Shake</b></p>
+<p class=""p4""><br></p>
+<p class=""eatPeriod"">Lunch</p>
+<p class=""p2""><b>Roasted Turkey Breast (leftovers from dinner) on Whole Wheat Bread with Cranberry Sauce, Lettuce, Black Pepper and Slivered Almonds</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Snack #2</p>
+<p class=""p2""><b>Greek Yogurt (Chobani) with Honey and Almonds</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Snack #2</p>
+<p class=""p2""><b>Greek Yogurt (Chobani) with Honey and Almonds</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Dinner</p>
+<p class=""p2""><b>Grilled Pork Chop</b></p>
+<p class=""p2""><b>Applesauce</b></p>
+<p class=""p2""><b>Grilled Portobello Mushrooms</b></p>
+<p class=""p2""><b>Baked Sweet Potato</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Snack #3</p>
+<p class=""p2""><b>Protein Shake OR</b></p>
+<p class=""p2""><b>Air Popped Popcorn with Cajun Spices</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><br></p>"
+"15","15","<p class=""eatPeriod"">Breakfast</p>
+<p class=""p2""><b>Bowl of Oatmeal (add Cinnamon + Walnuts)</b></p>
+<p class=""p2""><b>Glass of Skim Milk</b></p>
+<p class=""p2""><b>Scrambled Egg Whites</b></p>
+<p class=""p2""><b>High Grade Omega-3’s</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Snack #1</p>
+<p class=""p2""><b>Protein Shake</b></p>","<p class=""eatPeriod"">Lunch</p>
+<p class=""p2""><b>Peanut Butter and Jelly Sandwich on Whole Wheat Bread</b></p>
+<p class=""p2""><b>Fat Free Yogurt</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><span class=""s1""></span><br></p>","<p class=""p2""><b><span class=""s1"">Snack#2</span></b></p>
+<p class=""p2""><b>Turkey OR Beef Jerky</b></p>
+<p class=""p2""><b>Saltine Crackers</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><span class=""s1""></span><br></p>","<p class=""eatPeriod"">Dinner</p>
+<p class=""p2""><b>Fresh Pasta with Roasted Red Tomato Sauce and Grilled Oregano Chicken</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Snack #3</p>
+<p class=""p2""><b>Protein Shake OR</b></p>
+<p class=""p2""><b>1-2 pieces of Fat Free String Cheese</b></p>
+<p class=""p2""><b>Grapes</b></p>
+<p class=""p3""><br></p>"
+"16","16","<p class=""eatPeriod"">Breakfast</p>
+<p class=""p2""><b>Breakfast Smoothie(2 Cups of Skim Milk, ½ Banana, Fresh Strawberries and 1 Scoop Protein Powder)</b></p>
+<p class=""p2""><b>High Grade Omega-3’s</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Lunch</b></p>
+<p class=""p2""><b>Peanut Butter and Jelly Sandwich on Whole Wheat Bread</b></p>
+<p class=""p2""><b>Fat Free Yogurt</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><span class=""s1""></span><br></p>","<p class=""eatPeriod"">Lunch</p>
+<p class=""p2""><b>Turkey Breast on a Whole Wheat Wrap with Hot Mustard and Fat Free Swiss Cheese</b></p>
+<p class=""p2""><b>Fat Free Yogurt</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Snack #2</p>
+<p class=""p2""><b>Turkey OR Beef Jerky</b></p>
+<p class=""p2""><b>Saltine Crackers</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Dinner</p>
+<p class=""p2""><b>Grilled Pork Chop</b></p>
+<p class=""p2""><b>Applesauce</b></p>
+<p class=""p2""><b>Grilled Portobello Mushrooms</b></p>
+<p class=""p2""><b>Baked Sweet Potato</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Snack #3</p>
+<p class=""p2""><b>Protein Shake OR</b></p>
+<p class=""p2""><b>No Fat Cottage Cheese / Ricotta Cheese with Cinnamon and a Few Crushed Almonds</b></p>
+<p class=""p3""><br></p>"
+"17","17","<p class=""eatPeriod"">Breakfast</p>
+<p class=""p2""><b>5 Egg White / 1 Whole Egg Omelet (made with onions, peppers, mushrooms and salsa)</b></p>
+<p class=""p2""><b>High Grade Omega-3’s</b></p>
+<p class=""p2""><b>Whole Wheat Toast</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Snack #1</p>
+<p class=""p2""><b>1% Cottage Cheese</b></p>
+<p class=""p2""><b>1 Ripe Banana</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><span class=""s1""></span><br></p>","<p class=""eatPeriod"">Lunch</p>
+<p class=""p2""><b>Turkey Burger with Onions, Lettuce, Tomato, and Fat Free Swiss Cheese</b></p>
+<p class=""p2""><b>Fat Free Yogurt</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Snack #2</p>
+<p class=""p2""><b>Protein Shake</b></p>","<p class=""eatPeriod"">Dinner</p>
+<p class=""p2""><b>Grilled Ahi Tuna Steak</b></p>
+<p class=""p2""><b>Edamame</b></p>
+<p class=""p2""><b>Jasmine Rice</b></p>
+<p class=""p2""><b>Sauteed Broccoli</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Snack #3</p>
+<p class=""p2""><b>Protein Shake OR</b></p>
+<p class=""p2""><b>1-2 Pieces of Fat Free String Cheese</b></p>
+<p class=""p2""><b>Grapes</b></p>
+<p class=""p4""><br></p>"
+"18","18","<p class=""eatPeriod"">Breakfast</p>
+<p class=""p2""><b>Whole Wheat Waffles w/ Fresh Blueberries and Fat Free Cool Whip</b></p>
+<p class=""p2""><b>Protein Shake (Skim Milk and 1 Scoop Protein Powder)</b></p>
+<p class=""p2""><b>High Grade Omega-3’s</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Snack #1</p>
+<p class=""p2""><b>1/2 Peanut Butter Sandwich on Whole Wheat Bread</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Lunch</p>
+<p class=""p2""><b>Grilled Chicken on a Whole Wheat Wrap with Lettuce, Tomato and Salsa</b></p>
+<p class=""p2""><b>Fat Free Yogurt</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Snack #2</p>
+<p class=""p2""><b>1/2 Peanut Butter Sandwich on Whole Wheat Bread</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Dinner</p>
+<p class=""p2""><b>Top Round or Grilled Sirloin Steak</b></p>
+<p class=""p2""><b>Baked Sweet Potato</b></p>
+<p class=""p2""><b>Grilled Asparagus</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Snack #3</p>
+<p class=""p2""><b>Protein Shake OR</b></p>
+<p class=""p2""><b>Thinly Sliced Roasted Turkey Wrapped Around a Pickle with Cayenne Pepper</b></p>
+<p class=""p4""><br></p>"
+"19","19","<p class=""eatPeriod"">Breakfast</p>
+<p class=""p2""><b>Bowl of Oatmeal (add Cinnamon + Walnuts)</b></p>
+<p class=""p2""><b>Glass of Skim Milk</b></p>
+<p class=""p2""><b>Scrambled Egg Whites</b></p>
+<p class=""p2""><b>High Grade Omega-3’s</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Snack #1</p>
+<p class=""p2""><b>Protein Shake</b></p>
+<p class=""p3""><br></p>","<p class=""eatPeriod"">Lunch</p>
+<p class=""p2""><b>Canned Tuna in Water (mix with lemon juice and black pepper) add Fat Free Mayo on Whole Wheat</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Snack #2</p>
+<p class=""p2""><b>Turkey / Beef Jerky</b></p>
+<p class=""p2""><b>Saltine Crackers</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><span class=""s1""></span><br></p>","<p class=""eatPeriod"">Dinner</p>
+<p class=""p2""><b>Cajun Chicken Breast</b></p>
+<p class=""p2""><b>Cous Cous</b></p>
+<p class=""p2""><b>Sweet Potato</b></p>
+<p class=""p2""><b>Mixed Grilled Veggies</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Snack #3</p>
+<p class=""p2""><b>Protein Shake OR</b></p>
+<p class=""p2""><b>12 Ounce Glass of Skim or 1% Milk</b></p>
+<p class=""p2""><b>Small Banana / Berries</b></p>
+<p class=""p4""><br></p>"
+"20","20","<p class=""eatPeriod"">Breakfast</p>
+<p class=""p2""><b>Whole Wheat Toast</b></p>
+<p class=""p2""><b>Egg White Souffle (5 Egg Whites Mixed in a Glass Bowl Microwave on High for 4 Minutes)</b></p>
+<p class=""p2""><b>High Grade Omega-3’s</b></p>
+<p class=""p4""><span class=""s1""></span><br></p>","<p class=""eatPeriod"">Snack #1</p>
+<p class=""p2""><b>1/2 Peanut Butter Sandwich on Whole Wheat Bread</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Lunch</p>
+<p class=""p2""><b>Turkey Burger with Onions, Lettuce, Tomato, and Fat Free Swiss Cheese</b></p>
+<p class=""p2""><b>Fat Free Yogurt</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><span class=""s1""></span><br></p>
+","<p class=""eatPeriod"">Snack #2</p>
+<p class=""p2""><b>1/2 Peanut Butter Sandwich on Whole Wheat Bread</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Dinner</p>
+<p class=""p2""><b>Lemon Grilled Chicken</b></p>
+<p class=""p2""><b>Brown Rice</b></p>
+<p class=""p2""><b>Grilled Mixed Vegetables</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Snack #3</p>
+<p class=""p2""><b>Protein Shake OR</b></p>
+<p class=""p2""><b>Air Popped Popcorn with Molly McButter</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><br></p>"
+"21","21","<p class=""eatPeriod"">Breakfast</p>
+<p class=""p2""><b>Bowl of Kashi Go Lean w/ Skim Milk</b></p>
+<p class=""p2""><b>Scrambled Egg Whites w/ Salsa</b></p>
+<p class=""p2""><b>High Grade Omega-3</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Snack #1</p>
+<p class=""p2""><b>Bag of Homemade Trail Mix (Coconut, Almonds, Kashi Go Lean cereal, Walnuts, a few Chocolate Chips)</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Lunch</p>
+<p class=""p2""><b>Grilled Chicken on a Whole Wheat Wrap with Lettuce, Tomato and Salsa</b></p>
+<p class=""p2""><b>Fat Free Yogurt</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p3""><br></p>","<p class=""eatPeriod"">Snack #2</p>
+<p class=""p2""><b>Bag of Homemade Trail Mix (Coconut, Almonds, Kashi Go Lean cereal, Walnuts, a few Chocolate Chips)</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Dinner</p>
+<p class=""p2""><b>Grilled Pork Chop</b></p>
+<p class=""p2""><b>Applesauce</b></p>
+<p class=""p2""><b>Grilled Portobello Mushrooms</b></p>
+<p class=""p2""><b>Baked Sweet Potato</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Snack #3</p>
+<p class=""p2""><b>Protein Shake OR</b></p>
+<p class=""p2""><b>Air Popped Popcorn with Cinnamon Sugar</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><br></p>"
+"22","22","<p class=""eatPeriod"">Breakfast</p>
+<p class=""p2""><b>Oatmeal Power Shake (12 ounces Skim Milk, 1/4 Cup Oats, Banana, Strawberries, and 1 Scoop Protein Powder or Plain Yogurt)</b></p>
+<p class=""p2""><b>High Grade Omega-3’s</b></p>
+<p class=""p6""><span class=""s1""></span><br></p>","<p class=""eatPeriod"">Snack #1</p>
+<p class=""p2""><b>A Bag of Pretzels with Spicy Mustard</b></p>
+<p class=""p2""><b>Fat Free Yogurt</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p6""><br></p>","<p class=""eatPeriod"">Lunch</p>
+<p class=""p2""><b>Grilled Chicken on a Whole Wheat Wrap with Spinach, Sun Dried Tomatoes and Pepper</b></p>
+<p class=""p2""><b>Fat Free Yogurt</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p6""><br></p>","<p class=""eatPeriod"">Snack #2</p>
+<p class=""p2""><b>Protein Shake</b></p>
+<p class=""p7""><br></p>","<p class=""eatPeriod"">Dinner</p>
+<p class=""p2""><b>Grilled Shrimp</b></p>
+<p class=""p2""><b>Angel Hair Pasta with Garlic and Olive Oil</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p6""><span class=""s1""></span><br></p>","<p class=""eatPeriod"">Snack #3</p>
+<p class=""p2""><b>Protein Shake OR</b></p>
+<p class=""p2""><b>1% Cottage Cheese</b></p>
+<p class=""p2""><b>Fresh Strawberries</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p6""><span class=""s1""></span><br></p>"
+"23","23","<p class=""eatPeriod"">Breakfast</p>
+<p class=""p2""><b>Health Valley Fat Free Granola Bar</b></p>
+<p class=""p2""><b>1 Banana</b></p>
+<p class=""p2""><b>Glass of Skim Milk</b></p>
+<p class=""p2""><b>High Grade Omega-3’s</b></p>
+<p class=""p6""><br></p>","<p class=""eatPeriod"">Snack #1</p>
+<p class=""p2""><b>A Bag of Pretzels with Spicy Mustard</b></p>
+<p class=""p2""><b>Fat Free Yogurt</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p6""><br></p>","<p class=""eatPeriod"">Lunch</p>
+<p class=""p2""><b>Peanut Butter and Jelly Sandwich on Whole Wheat Bread</b></p>
+<p class=""p2""><b>Fat Free Yogurt</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p6""><br></p>","<p class=""eatPeriod"">Snack #2</p>
+<p class=""p2""><b>Turkey / Beef Jerky</b></p>
+<p class=""p2""><b>Saltine Crackers</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p6""><br></p>","<p class=""eatPeriod"">Dinner</p>
+<p class=""p2""><b>Fresh Pasta with Roasted Red Tomato Sauce and Grilled Oregano Chicken</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p6""><br></p>","<p class=""eatPeriod"">Snack #3</p>
+<p class=""p2""><b>Protein Shake OR</b></p>
+<p class=""p2""><b>1-2 Pieces of Fat Free String Cheese</b></p>
+<p class=""p2""><b>Grapes</b></p>
+<p class=""p7""><br></p>"
+"24","24","<p class=""eatPeriod"">Breakfast</p>
+<p class=""p2""><b>Bowl of Oatmeal (add Cinnamon + Walnuts)</b></p>
+<p class=""p2""><b>Skim Milk</b></p>
+<p class=""p2""><b>Scrambled Egg Whites w/ Hot Sauce</b></p>
+<p class=""p2""><b>High Grade Omega-3’s</b></p>
+<p class=""p6""><br></p>","<p class=""eatPeriod"">Lunch</b></p>
+<p class=""p2""><b>Peanut Butter and Jelly Sandwich on Whole Wheat Bread</b></p>
+<p class=""p2""><b>Fat Free Yogurt</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><span class=""s1""></span><br></p>","<p class=""eatPeriod"">Lunch</p>
+<p class=""p2""><b>Egg White and Pepper Omelet on a Whole Wheat Wrap with Fat Free Swiss Cheese</b></p>
+<p class=""p2""><b>Fat Free Yogurt</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p6""><br></p>","<p class=""eatPeriod"">Snack #2</p>
+<p class=""p2""><b>Protein Bar</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p6""><br></p>","<p class=""eatPeriod"">Dinner</p>
+<p class=""p2""><b>Lemon Filet of Sole</b></p>
+<p class=""p2""><b>Wilted Garlic Spinach</b></p>
+<p class=""p2""><b>Brown Rice</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p6""><br></p>","<p class=""eatPeriod"">Snack #3</p>
+<p class=""p2""><b>Protein Shake OR</b></p>
+<p class=""p2""><b>Turkey / Beef Jerky</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p6""><br></p>
+"
+"25","25","<p class=""eatPeriod"">Breakfast</p>
+<p class=""p2""><b>Egg Whites Scrambled with Fat Free Mozzarella and Salsa on an English Muffin</b></p>
+<p class=""p2""><b>Skim Milk</b></p>
+<p class=""p2""><b>High Grade Omega-3’s</b></p>
+<p class=""p6""><span class=""s1""></span><br></p>","<p class=""eatPeriod"">Snack #1</p>
+<p class=""p2""><b>Bag of Homemade Trail Mix (Coconut, Almonds, Kashi Go Lean cereal, Walnuts, a few Chocolate Chips)</b></p>
+<p class=""p6""><span class=""s1""></span><br></p>","<p class=""eatPeriod"">Lunch</p>
+<p class=""p2""><b>Mixed Green Salad with Grilled Chicken, Pineapple, and Orange Slices</b></p>
+<p class=""p2""><b>Bag of Pretzels</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p6""><br></p>","<p class=""eatPeriod"">Snack #2</p>
+<p class=""p2""><b>Bag of Homemade Trail Mix (Coconut, Almonds, Kashi Go Lean cereal, Walnuts, a few Chocolate Chips)</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Dinner</p>
+<p class=""p2""><b>Grilled Chicken Breast w/ Roasted Apple/Onion</b></p>
+<p class=""p2""><b>Cous Cous</b></p>
+<p class=""p2""><b>Sweet Potato</b></p>
+<p class=""p2""><b>Mixed Grilled Veggies</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p6""><br></p>","<p class=""eatPeriod"">Snack #3</p>
+<p class=""p2""><b>Protein Shake OR</b></p>
+<p class=""p2""><b>12 Ounce Glass of Skim or 1% Milk</b></p>
+<p class=""p2""><b>Small Banana / Berries</b></p>
+<p class=""p4""><br></p>"
+"26","26","<p class=""eatPeriod"">Breakfast</p>
+<p class=""p2""><b>Bowl of Kashi Heart to Heart w/ Skim Milk</b></p>
+<p class=""p2""><b>Scrambled Egg Whites w/ Salsa</b></p>
+<p class=""p2""><b>High Grade Omega-3</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Snack #1</p>
+<p class=""p2""><b>1/2 Peanut Butter Sandwich on Whole Wheat Bread</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p6""><br></p>","<p class=""eatPeriod"">Lunch</p>
+<p class=""p2""><b>Pasta Salad with Citrus Grilled Chicken and Low-Fat Vinaigrette</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p6""><br></p>","<p class=""eatPeriod"">Snack #2</p>
+<p class=""p2""><b>Turkey OR Beef Jerky</b></p>
+<p class=""p2""><b>Saltine Crackers</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p6""><br></p>","<p class=""eatPeriod"">Dinner</p>
+<p class=""p2""><b>Top Round or Grilled Sirloin Steak</b></p>
+<p class=""p2""><b>Baked Sweet Potato</b></p>
+<p class=""p2""><b>Grilled Asparagus</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p6""><br></p>","<p class=""eatPeriod"">Snack #3</p>
+<p class=""p2""><b>Protein Shake OR</b></p>
+<p class=""p2""><b>Greek Yogurt with a Handful of Crushed Almonds</b></p>
+<p class=""p6""><span class=""s1""></span><br></p>"
+"27","27","<p class=""eatPeriod"">Breakfast</p>
+<p class=""p2""><b>Whole Wheat French Toast (dipped in egg beaters) with Sugar Free Maple Syrup</b></p>
+<p class=""p2""><b>Glass of Skim Milk</b></p>
+<p class=""p2""><b>High Grade Omega-3’s</b></p>
+<p class=""p6""><br></p>","<p class=""eatPeriod"">Snack #1</p>
+<p class=""p2""><b>Greek Yogurt (Chobani) with Sliced Peaches and Almonds</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p6""><br></p>","<p class=""eatPeriod"">Lunch</p>
+<p class=""p2""><b>Cajun Grilled Chicken on a Whole Wheat Wrap with Lettuce, Tomato and Salsa</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p6""><br></p>","<p class=""eatPeriod"">Snack #2</p>
+<p class=""p2""><b>A couple of bunches of Grapes</b></p>
+<p class=""p2""><b>Wedge of Laughing Cow OR Baby Ebel Cheese</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p6""><br></p>","<p class=""eatPeriod"">Dinner</p>
+<p class=""p2""><b>Turkey Sausage with Red Peppers and Onions</b></p>
+<p class=""p2""><b>Baked Sweet Potato</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p6""><br></p>","<p class=""eatPeriod"">Snack #3</p>
+<p class=""p2""><b>Protein Shake OR</b></p>
+<p class=""p2""><b>Air Popped Popcorn with Sprinkled Parmesan Cheese</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p6""><br></p>"
+"28","28","<p class=""eatPeriod"">Breakfast</p>
+<p class=""p2""><b>Scrambled Egg Whites</b></p>
+<p class=""p2""><b>Turkey Bacon</b></p>
+<p class=""p2""><b>Whole Wheat Toast</b></p>
+<p class=""p2""><b>Glass of Skim Milk</b></p>
+<p class=""p2""><b>High Grade Omega-3’s</b></p>
+<p class=""p6""><span class=""s1""></span><br></p>","<p class=""eatPeriod"">Snack #1</p>
+<p class=""p2""><b>Walnuts and Apricots (mix about 10 dried Apricots with 10-12 Walnuts in a bag)</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p6""><br></p>","<p class=""eatPeriod"">Lunch</p>
+<p class=""p2""><b>Peanut Butter and Jelly Sandwich on Whole Wheat Bread</b></p>
+<p class=""p2""><b>1 Pear</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p6""><br></p>","<p class=""eatPeriod"">Snack #2</p>
+<p class=""p2""><b>A Bag of Pretzels with Spicy Mustard</b></p>
+<p class=""p2""><b>Fat Free Yogurt</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p6""><span class=""s1""></span><br></p>","<p class=""eatPeriod"">Dinner</p>
+<p class=""p2""><b>Chicken Cacciatore Lite (made with mushrooms, tomatoes, onions, peppers)</b></p>
+<p class=""p2""><b>Brown Rice</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p6""><br></p>","<p class=""eatPeriod"">Snack #3</p>
+<p class=""p2""><b>Protein Shake OR</b></p>
+<p class=""p2""><b>Air Popped Popcorn with Sprinkled Sea Salt</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p6""><br></p>"
+"29","29","<p class=""eatPeriod"">Breakfast</p>
+<p class=""p2""><b>Bowl of Oatmeal (add Cinnamon + Walnuts)</b></p>
+<p class=""p2""><b>Glass of Skim Milk</b></p>
+<p class=""p2""><b>Scrambled Egg Whites</b></p>
+<p class=""p2""><b>High Grade Omega-3’s</b></p>
+<p class=""p6""><br></p>","<p class=""eatPeriod"">Snack #1</p>
+<p class=""p2""><b>Turkey / Beef Jerky</b></p>
+<p class=""p2""><b>Saltine Crackers</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Lunch</p>
+<p class=""p2""><b>Grilled Chicken on a Whole Wheat Wrap with Lettuce, Tomato and Salsa</b></p>
+<p class=""p2""><b>Fat Free Yogurt</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p6""><span class=""s1""></span><br></p>","<p class=""eatPeriod"">Snack #2</p>
+<p class=""p2""><b>Protein Shake</b></p>
+<p class=""p7""><br></p>","<p class=""eatPeriod"">Dinner</p>
+<p class=""p2""><b>Grilled Ahi Tuna Steak</b></p>
+<p class=""p2""><b>Edamame</b></p>
+<p class=""p2""><b>Jasmine Rice</b></p>
+<p class=""p2""><b>Sauteed Broccoli</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p6""><span class=""s1""></span><br></p>","<p class=""eatPeriod"">Snack #3</p>
+<p class=""p2""><b>Protein Shake OR</b></p>
+<p class=""p2""><b>12 Ounce Glass of Skim or 1% Milk</b></p>
+<p class=""p2""><b>Small Banana / Berries</b></p>
+<p class=""p6""><span class=""s1""></span><br></p>"
+"30","30","<p class=""eatPeriod"">Breakfast</p>
+<p class=""p2""><b>Whole Wheat English Muffin w/ Jelly</b></p>
+<p class=""p2""><b>Protein Shake (Skim Milk and 1 Scoop Protein Powder)</b></p>
+<p class=""p2""><b>High Grade Omega-3’s</b></p>
+<p class=""p6""><span class=""s1""></span><br></p>","<p class=""eatPeriod"">Snack #1</p>
+<p class=""p2""><b>1/2 Peanut Butter Sandwich on Whole Wheat Bread</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p6""><br></p>","<p class=""eatPeriod"">Lunch</p>
+<p class=""p2""><b>Canned Tuna in Water (mix with lemon juice and black pepper) add Fat Free Mayo on Whole Wheat</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p6""><br></p>","<p class=""eatPeriod"">Snack #2</p>
+<p class=""p2""><b>1/2 Peanut Butter Sandwich on Whole Wheat Bread</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p6""><br></p>","<p class=""eatPeriod"">Dinner</p>
+<p class=""p2""><b>Cajun Chicken Breast</b></p>
+<p class=""p2""><b>Cous Cous</b></p>
+<p class=""p2""><b>Baked Sweet Potato</b></p>
+<p class=""p2""><b>Mixed Grilled Veggies</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p6""><br></p>","<p class=""eatPeriod"">Snack #3</p>
+<p class=""p2""><b>Protein Shake OR</b></p>
+<p class=""p2""><b>No Fat Cottage Cheese / Ricotta Cheese with Cinnamon and a Few Crushed Almonds</b></p>
+<p class=""p6""><span class=""s1""></span><br></p>
+"
+"31","31","<p class=""eatPeriod"">Breakfast</p>
+<p class=""p2""><b>Health Valley Fat Free Granola Bar</b></p>
+<p class=""p2""><b>Banana</b></p>
+<p class=""p2""><b>Glass of Skim Milk</b></p>
+<p class=""p2""><b>High Grade Omega-3’s</b></p>
+<p class=""p6""><br></p>","<p class=""eatPeriod"">Snack #1</p>
+<p class=""p2""><b>Protein Shake</b></p>","<p class=""eatPeriod"">Snack #2</p>
+<p class=""p2""><b>Turkey / Beef Jerky</b></p>
+<p class=""p2""><b>Saltine Crackers</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p6""><br></p>","<p class=""eatPeriod"">Snack #2</p>
+<p class=""p2""><b>Turkey / Beef Jerky</b></p>
+<p class=""p2""><b>Saltine Crackers</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p6""><br></p>","<p class=""eatPeriod"">Dinner</p>
+<p class=""p2""><b>Fresh Pasta with Roasted Red Tomato Sauce and Grilled Oregano Chicken</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p6""><br></p>","<p class=""eatPeriod"">Snack #3</p>
+<p class=""p2""><b>1-2 pieces of Fat Free String Cheese</b></p>
+<p class=""p2""><b>Grapes</b></p>
+<p class=""p7""><br></p>"
+"32","32","<p class=""eatPeriod"">Breakfast</p>
+<p class=""p2""><b>Bowl of Kashi Go Lean w/ Skim Milk</b></p>
+<p class=""p2""><b>Scrambled Egg Whites w/ Salsa</b></p>
+<p class=""p2""><b>High Grade Omega-3’s</b></p>
+<p class=""p6""><br></p>","<p class=""eatPeriod"">Snack #1</p>
+<p class=""p2""><b>25-30 Grapes</b></p>
+<p class=""p2""><b>Low Fat Mozzarella String Cheese</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Lunch</p>
+<p class=""p2""><b>Grilled Chicken on a Whole Wheat Wrap with Lettuce, Tomato and Salsa</b></p>
+<p class=""p2""><b>Fat Free Yogurt</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p6""><br></p>","<p class=""eatPeriod"">Snack #2</p>
+<p class=""p2""><b>No Fat Cottage Cheese / Ricotta Cheese with Cinnamon and a Few Crushed Almonds</b></p>
+<p class=""p7""><br></p>","<p class=""eatPeriod"">Dinner</p>
+<p class=""p2""><b>Grilled Pork Chop</b></p>
+<p class=""p2""><b>Applesauce</b></p>
+<p class=""p2""><b>Grilled Portobello Mushrooms</b></p>
+<p class=""p2""><b>Baked Sweet Potato</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p6""><br></p>","<p class=""eatPeriod"">Snack #3</p>
+<p class=""p2""><b>Protein Shake OR</b></p>
+<p class=""p2""><b>Air Popped Popcorn with Cinnamon Sugar</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p6""><span class=""s1""></span><br></p>"
+"33","33","<p class=""eatPeriod"">Breakfast</p>
+<p class=""p2""><b>Whole Wheat French Toast (dipped in egg beaters) with Sugar Free Maple Syrup</b></p>
+<p class=""p2""><b>Glass of Skim Milk</b></p>
+<p class=""p2""><b>High Grade Omega-3’s</b></p>
+<p class=""p6""><span class=""s1""></span><br></p>","<p class=""eatPeriod"">Snack #1</p>
+<p class=""p2""><b>Greek Yogurt (Chobani) with Sliced Peaches and Almonds</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p6""><span class=""s1""></span><br></p>","<p class=""eatPeriod"">Lunch</p>
+<p class=""p2""><b>Cajun Grilled Chicken on a Whole Wheat Wrap with Lettuce, Tomato and Salsa</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p6""><span class=""s1""></span><br></p>","<p class=""eatPeriod"">Snack #2</p>
+<p class=""p2""><b>A couple of bunches of Grapes</b></p>
+<p class=""p2""><b>Wedge of Laughing Cow OR Baby Ebel Cheese</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p6""><span class=""s1""></span><br></p>","<p class=""eatPeriod"">Dinner</p>
+<p class=""p2""><b>Turkey Sausage with Red Peppers and Onions</b></p>
+<p class=""p2""><b>Baked Sweet Potato</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p6""><span class=""s1""></span><br></p>","<p class=""eatPeriod"">Snack #3</p>
+<p class=""p2""><b>Protein Shake OR</b></p>
+<p class=""p2""><b>Air Popped Popcorn with Sprinkled Parmesan Cheese</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p6""><br></p>"
+"34","34","<p class=""eatPeriod"">Breakfast</p>
+<p class=""p2""><b>Whole Wheat Toast</b></p>
+<p class=""p2""><b>Egg White Souffle (5 Egg Whites Mixed in a Glass Bowl Microwave on High for 4 Minutes)</b></p>
+<p class=""p2""><b>High Grade Omega-3’s</b></p>
+<p class=""p6""><span class=""s1""></span><br></p>","<p class=""eatPeriod"">Snack #1</p>
+<p class=""p2""><b>1/2 Peanut Butter and Banana Sandwich on Whole Wheat Bread</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><span class=""s1""></span><br></p>","<p class=""eatPeriod"">Lunch</p>
+<p class=""p2""><b>Turkey Burger with Onions, Lettuce, Tomato, and Fat Free Swiss Cheese</b></p>
+<p class=""p2""><b>Fat Free Yogurt</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Snack #2</p>
+<p class=""p2""><b>1/2 Peanut Butter and Banana Sandwich on Whole Wheat Bread</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Dinner</p>
+<p class=""p2""><b>Lemon Grilled Chicken</b></p>
+<p class=""p2""><b>Brown Rice</b></p>
+<p class=""p2""><b>Grilled Mixed Vegetables</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Snack #3</p>
+<p class=""p2""><b>Protein Shake OR</b></p>
+<p class=""p2""><b>Air Popped Popcorn with Molly McButter</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><br></p>"
+"35","35","<p class=""eatPeriod"">Breakfast</p>
+<p class=""p2""><b>Whole Wheat Waffles with Sugar Free Maple Syrup</b></p>
+<p class=""p2""><b>Pumpkin Butter</b></p>
+<p class=""p2""><b>Skim Milk</b></p>
+<p class=""p2""><b>High Grade Omega-3’s</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Snack #1</p>
+<p class=""p2""><b>25-30 Grapes</b></p>
+<p class=""p2""><b>Low Fat Mozzarella String Cheese</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><span class=""s1""></span><br></p>","<p class=""eatPeriod"">Lunch</p>
+<p class=""p2""><b>Tuna Fish Salad (use fat free mayo to prepare) on Whole Wheat pita w/ craisins</b></p>
+<p class=""p2""><b>1 Apple</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><span class=""s1""></span><br></p>","<p class=""p2""><b><span class=""s1"">Snack#2</span></b></p>
+<p class=""p2""><b>Protein Shake</b></p>
+<p class=""p3""><br></p>","<p class=""eatPeriod"">Dinner</p>
+<p class=""p2""><b>Seared Ahi Tuna Steak with Black Peppercorns and Wasabi (no mayo)</b></p>
+<p class=""p2""><b>Jasmine Rice</b></p>
+<p class=""p2""><b>Wilted Spinach</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Snack #3</p>
+<p class=""p2""><b>Protein Shake OR</b></p>
+<p class=""p2""><b>Air Popped Popcorn with Drizzled Honey</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><br></p>"
+"36","36","<p class=""eatPeriod"">Breakfast</p>
+<p class=""p2""><b>Bowl of Kashi Heart To Heart Cereal w/ Skim Milk</b></p>
+<p class=""p2""><b>High Grade Omega-3’s</b></p>
+<p class=""p2""><b>Fat Free Yogurt</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Snack #1</p>
+<p class=""p2""><b>25-30 Grapes</b></p>
+<p class=""p2""><b>Low Fat Mozzarella String Cheese</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Lunch</p>
+<p class=""p2""><b>Turkey Burger with Onions, Lettuce, Tomato, and Fat Free Swiss Cheese</b></p>
+<p class=""p2""><b>Fat Free Yogurt</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Snack #2</p>
+<p class=""p2""><b>Protein Shake</b></p>
+<p class=""p3""><br></p>","<p class=""eatPeriod"">Dinner</p>
+<p class=""p2""><b>Grilled Salmon Steak (w/ Teriyaki Drizzle)</b></p>
+<p class=""p2""><b>Brown Rice</b></p>
+<p class=""p2""><b>Sauteed Broccoli</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Snack #3</p>
+<p class=""p2""><b>Protein Shake OR</b></p>
+<p class=""p2""><b>1% Cottage Cheese</b></p>
+<p class=""p2""><b>Fresh Strawberries</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><span class=""s1""></span><br></p>"
+"37","37","<p class=""eatPeriod"">Breakfast</p>
+<p class=""p2""><b>Health Valley Fat Free Granola Bar</b></p>
+<p class=""p2""><b>Banana</b></p>
+<p class=""p2""><b>Glass of Skim Milk</b></p>
+<p class=""p2""><b>High Grade Omega-3’s</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Snack #1</p>
+<p class=""p2""><b>Greek Yogurt (Chobani) with Sliced Peaches and Almonds</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p6""><span class=""s1""></span><br></p>","<p class=""eatPeriod"">Lunch</p>
+<p class=""p2""><b>Peanut Butter and Jelly Sandwich on Whole Wheat Bread</b></p>
+<p class=""p2""><b>Fat Free Yogurt</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Snack #2</p>
+<p class=""p2""><b>Turkey OR Beef Jerky</b></p>
+<p class=""p2""><b>Saltine Crackers</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Dinner</p>
+<p class=""p2""><b>Fresh Pasta with Roasted Red Tomato Sauce and Grilled Oregano Chicken</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Snack #3</p>
+<p class=""p2""><b>Protein Shake OR</b></p>
+<p class=""p2""><b>1-2 pieces of Fat Free String Cheese</b></p>
+<p class=""p2""><b>Grapes</b></p>
+<p class=""p4""><span class=""s1""></span><br></p>"
+"38","38","<p class=""eatPeriod"">Breakfast</p>
+<p class=""p2""><b>Oatmeal Power Shake (12 ounces Skim Milk, 1/4 Cup Oats, Banana, Strawberries, and 1 Scoop Protein Powder or Plain Yogurt)</b></p>
+<p class=""p2""><b>High Grade Omega-3’s</b></p>
+<p class=""p4""><span class=""s1""></span><br></p>","<p class=""eatPeriod"">Snack #1</p>
+<p class=""p2""><b>A Bag of Pretzels with Spicy Mustard</b></p>
+<p class=""p2""><b>Fat Free Yogurt</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><span class=""s1""></span><br></p>","<p class=""eatPeriod"">Lunch</p>
+<p class=""p2""><b>Grilled Chicken on a Whole Wheat Wrap with Spinach, Sun Dried Tomatoes and Pepper</b></p>
+<p class=""p2""><b>Fat Free Yogurt</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><span class=""s1""></span><br></p>","<p class=""eatPeriod"">Snack #2</p>
+<p class=""p2""><b>Protein Shake</b></p>
+<p class=""p3""><br></p>","<p class=""eatPeriod"">Dinner</p>
+<p class=""p2""><b>Grilled Shrimp</b></p>
+<p class=""p2""><b>Angel Hair Pasta with Garlic and Olive Oil</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><span class=""s1""></span><br></p>","<p class=""eatPeriod"">Snack #3</p>
+<p class=""p2""><b>Protein Shake OR</b></p>
+<p class=""p2""><b>1% Cottage Cheese</b></p>
+<p class=""p2""><b>Fresh Strawberries</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><br></p>"
+"39","39","<p class=""eatPeriod"">Breakfast</p>
+<p class=""p2""><b>Bowl of Oatmeal (add Cinnamon + Walnuts)</b></p>
+<p class=""p2""><b>Glass of Skim Milk</b></p>
+<p class=""p2""><b>Scrambled Egg Whites with Salsa</b></p>
+<p class=""p2""><b>High Grade Omega-3’s</b></p>
+<p class=""p9""><span class=""s1""></span><br></p>","<p class=""eatPeriod"">Snack #1</p>
+<p class=""p2""><b>Protein Shake</b></p>","<p class=""eatPeriod"">Lunch</p>
+<p class=""p2""><b>Roasted Turkey Breast on Whole Wheat Bread with Cranberry Sauce, Lettuce, Pepper and Almonds</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Snack #1</p>
+<p class=""p2""><b>Greek Yogurt (Chobani) with Honey and Almonds</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Dinner</p>
+<p class=""p2""><b>Grilled Pork Chop</b></p>
+<p class=""p2""><b>Applesauce</b></p>
+<p class=""p2""><b>Grilled Portobello Mushrooms</b></p>
+<p class=""p2""><b>Baked Sweet Potato</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Snack #3</p>
+<p class=""p2""><b>Protein Shake OR</b></p>
+<p class=""p2""><b>Air Popped Popcorn with Cajun Spices</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><span class=""s1""></span><br></p>"
+"40","40","<p class=""eatPeriod"">Breakfast</p>
+<p class=""p2""><b>Breakfast Smoothie - (2 Cups of Skim Milk, ½ Banana, Fresh Strawberries and 1 Scoop Protein Powder)</b></p>
+<p class=""p2""><b>High Grade Omega-3’s</b></p>
+<p class=""p4""><span class=""s1""></span><br></p>","<p class=""eatPeriod"">Snack #1</p>
+<p class=""p2""><b>Protein Shake</b></p>
+<p class=""p3""><br></p>","<p class=""eatPeriod"">Lunch</p>
+<p class=""p2""><b>Turkey Breast on a Whole Wheat Wrap w/ Hot Mustard and Fat Free Swiss</b></p>
+<p class=""p2""><b>Fat Free Yogurt</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><span class=""s1""></span><br></p>","<p class=""eatPeriod"">Snack #2</p>
+<p class=""p2""><b>Turkey / Beef Jerky</b></p>
+<p class=""p2""><b>Saltine Crackers</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Dinner</p>
+<p class=""p2""><b>Grilled Pork Chop</b></p>
+<p class=""p2""><b>Applesauce</b></p>
+<p class=""p2""><b>Grilled Portobello Mushrooms</b></p>
+<p class=""p2""><b>Baked Sweet Potato</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Snack #3</p>
+<p class=""p2""><b>Protein Shake OR</b></p>
+<p class=""p2""><b>No Fat Cottage Cheese / Ricotta Cheese with Cinnamon and a few Crushed Almonds</b></p>
+<p class=""p3""><br></p>"
+"41","41","<p class=""eatPeriod"">Breakfast</p>
+<p class=""p2""><b>Whole Wheat Waffles with Sugar Free Maple Syrup</b></p>
+<p class=""p2""><b>Pumpkin Butter</b></p>
+<p class=""p2""><b>Skim Milk</b></p>
+<p class=""p2""><b>High Grade Omega-3’s</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Snack #1</p>
+<p class=""p2""><b>25-30 Grapes</b></p>
+<p class=""p2""><b>Low Fat Mozzarella String Cheese</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Lunch</p>
+<p class=""p2""><b>Tuna Fish Salad (use fat free mayo to prepare) on Whole Wheat Pita w/ Craisins</b></p>
+<p class=""p2""><b>1 Apple</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Snack #2</p>
+<p class=""p2""><b>1/2 Peanut Butter and Banana Sandwich on Whole Wheat Bread</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Dinner</p>
+<p class=""p2""><b>Seared Ahi Tuna Steak with Black Peppercorns and Wasabi (no mayo)</b></p>
+<p class=""p2""><b>Jasmine Rice</b></p>
+<p class=""p2""><b>Wilted Spinach</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><span class=""s1""></span><br></p>","<p class=""eatPeriod"">Snack #3</p>
+<p class=""p2""><b>Protein Shake OR</b></p>
+<p class=""p2""><b>Air Popped Popcorn with Drizzled Honey</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><br></p>"
+"42","42","<p class=""eatPeriod"">Breakfast</p>
+<p class=""p2""><b>Whole Wheat French Toast (dipped in egg beaters) with Sugar Free Maple Syrup</b></p>
+<p class=""p2""><b>Glass of Skim Milk</b></p>
+<p class=""p2""><b>High Grade Omega-3’s</b></p>
+<p class=""p6""><br></p>","<p class=""eatPeriod"">Snack #1</p>
+<p class=""p2""><b>Greek Yogurt (Chobani) with Sliced Peaches and Almonds</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><span class=""s1""></span><br></p>","<p class=""eatPeriod""><span class=""s1"">Lunch</span></b></p>
+<p class=""p2""><b>Cajun Grilled Chicken on a Whole Wheat Wrap with Lettuce, Tomato and Salsa</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><span class=""s1""></span><br></p>","<p class=""eatPeriod"">Snack #2</p>
+<p class=""p2""><b>A couple of Bunches of Grapes</b></p>
+<p class=""p2""><b>Wedge of Laughing Cow or Baby Ebel Cheese</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Dinner</p>
+<p class=""p2""><b>Turkey Sausage with Red Peppers and Onions</b></p>
+<p class=""p2""><b>Baked Sweet Potato</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><span class=""s1""></span><br></p>","<p class=""eatPeriod"">Snack #3</p>
+<p class=""p2""><b>Protein Shake OR</b></p>
+<p class=""p2""><b>Air Popped Popcorn with Sprinkled Parmesan Cheese</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><span class=""s1""></span><br></p>"
+"43","43","<p class=""eatPeriod"">Breakfast</p>
+<p class=""p2""><b>Bowl of Oatmeal w/ One Scoop Protein Powder</b></p>
+<p class=""p2""><b>High Grade Omega-3’s</b></p>
+<p class=""p2""><b>Glass of Skim Milk</b></p>
+<p class=""p4""><span class=""s1""></span><br></p>","<p class=""eatPeriod"">Snack #1</p>
+<p class=""p2""><b>Greek Yogurt (Chobani) with Honey and Almonds</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><span class=""s1""></span><br></p>","<p class=""eatPeriod"">Lunch</p>
+<p class=""p2""><b>Mixed Green Salad with Grilled Chicken, Pineapple, and Orange Slices</b></p>
+<p class=""p2""><b>Bag of Pretzels</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><span class=""s1""></span><br></p>","<p class=""eatPeriod"">Snack #2</p>
+<p class=""p2""><b>Protein Shake</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Dinner</p>
+<p class=""p2""><b>Grilled Halibut Steak w/ squeezed Lemon</b></p>
+<p class=""p2""><b>Brown Rice</b></p>
+<p class=""p2""><b>Sauteed Spinach</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p3""><br></p>","<p class=""eatPeriod"">Snack #3</p>
+<p class=""p2""><b>Protein Shake OR</b></p>
+<p class=""p2""><b>12 Ounce glass of Skim Milk or 1% Skim Milk</b></p>
+<p class=""p2""><b>Small Banana/ Berries</b></p>
+<p class=""p3""><br></p>"
+"44","44","<p class=""eatPeriod"">Breakfast</p>
+<p class=""p2""><b>Health Valley Fat Free Granola Bar</b></p>
+<p class=""p2""><b>Banana</b></p>
+<p class=""p2""><b>Glass of Skim Milk</b></p>
+<p class=""p2""><b>High Grade Omega-3’s</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Lunch</b></p>
+<p class=""p2""><b>Peanut Butter and Jelly Sandwich on Whole Wheat Bread</b></p>
+<p class=""p2""><b>Fat Free Yogurt</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>","<p class=""eatPeriod"">Lunch</p>
+<p class=""p2""><b>Peanut Butter and Jelly Sandwich on Whole Wheat Bread</b></p>
+<p class=""p2""><b>Fat Free Yogurt</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Snack #2</p>
+<p class=""p2""><b>Turkey / Beef Jerky</b></p>
+<p class=""p2""><b>Saltine Crackers</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Dinner</p>
+<p class=""p2""><b>Fresh Pasta with Roasted Red Tomato Sauce and Grilled Oregano Chicken</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Snack #3</p>
+<p class=""p2""><b>Protein Shake OR</b></p>
+<p class=""p2""><b>1-2 pieces of Fat Free String Cheese</b></p>
+<p class=""p2""><b>Grapes</b></p>
+<p class=""p4""><br></p>"
+"45","45","<p class=""eatPeriod"">Breakfast</p>
+<p class=""p2""><b>Whole Wheat French Toast (dipped in egg beaters) with Sugar Free Maple Syrup</b></p>
+<p class=""p2""><b>Glass of Skim Milk</b></p>
+<p class=""p2""><b>High Grade Omega-3’s</b></p>
+<p class=""p6""><br></p>","<p class=""eatPeriod"">Snack #1</p>
+<p class=""p2""><b>Greek Yogurt (Chobani) with Sliced Peaches and Almonds</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Lunch</p>
+<p class=""p2""><b>Cajun Grilled Chicken on a Whole Wheat Wrap with Lettuce, Tomato and Salsa</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p6""><span class=""s1""></span><br></p>","<p class=""eatPeriod"">Snack #2</p>
+<p class=""p2""><b>A couple of Bunches of Grapes</b></p>
+<p class=""p2""><b>Wedge of Laughing Cow or Baby Ebel Cheese</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p6""><br></p>","<p class=""eatPeriod"">Dinner</p>
+<p class=""p2""><b>Turkey Sausage with Red Peppers and Onions</b></p>
+<p class=""p2""><b>Baked Sweet Potato</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p6""><span class=""s1""></span><br></p>","<p class=""eatPeriod"">Snack #3</p>
+<p class=""p2""><b>Protein Shake OR</b></p>
+<p class=""p2""><b>Air Popped Popcorn with Sprinkled Parmesan Cheese</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><span class=""s1""></span><br></p>"
+"46","46","<p class=""eatPeriod"">Breakfast</p>
+<p class=""p2""><b>Turkey Bacon</b></p>
+<p class=""p2""><b>Whole Wheat Toast</b></p>
+<p class=""p2""><b>Scrambled Egg Whites w/ Salsa</b></p>
+<p class=""p2""><b>Glass of Skim Milk</b></p>
+<p class=""p2""><b>High Grade Omega-3’s</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Snack #1</p>
+<p class=""p2""><b>1/2 Peanut Butter and Banana Sandwich on Whole Wheat Bread</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Lunch</p>
+<p class=""p2""><b>Grilled Chicken on a Whole Wheat Wrap with Grilled Veggies</b></p>
+<p class=""p2""><b>Bag of Pretzels</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Snack #2</p>
+<p class=""p2""><b>1/2 Peanut Butter and Banana Sandwich on Whole Wheat Bread</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><span class=""s1""></span><br></p>","<p class=""eatPeriod"">Dinner</p>
+<p class=""p2""><b>Grilled Sirloin Steak with Garlic and A-1</b></p>
+<p class=""p2""><b>Baked Sweet Potato</b></p>
+<p class=""p2""><b>Sauteed Broccoli</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Snack #3</p>
+<p class=""p2""><b>Protein Shake OR</b></p>
+<p class=""p2""><b>Thinly Sliced Roasted Turkey Wrapped Around a Pickle with Cayenne Pepper</b></p>
+<p class=""p4""><span class=""s1""></span><br></p>"
+"47","47","<p class=""eatPeriod"">Breakfast</p>
+<p class=""p2""><b>Egg Whites Scrambled with Fat Free Mozzarella and Salsa</b></p>
+<p class=""p2""><b>English Muffin</b></p>
+<p class=""p2""><b>Glass of Skim Milk</b></p>
+<p class=""p2""><b>High Grade Omega-3’s</b></p>
+<p class=""p4""><span class=""s1""></span><br></p>","<p class=""eatPeriod"">Snack #1</p>
+<p class=""p2""><b>Bag of Homemade Trail Mix (Coconut, Almonds, Kashi Go Lean cereal, Walnuts, a few Chocolate Chips)</b></p>
+<p class=""p4""><span class=""s1""></span><br></p>","<p class=""eatPeriod"">Lunch</p>
+<p class=""p2""><b>Mixed Green Salad with Grilled Chicken, Pineapple, and Orange Slices</b></p>
+<p class=""p2""><b>Bag of Pretzels</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><span class=""s1""></span><br></p>","<p class=""eatPeriod"">Snack #2</p>
+<p class=""p2""><b>Bag of Homemade Trail Mix (Coconut, Almonds, Kashi Go Lean cereal, Walnuts, a few Chocolate Chips)</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Dinner</p>
+<p class=""p2""><b>Grilled Chicken Breast w/ Roasted Apples and Onions,</b></p>
+<p class=""p2""><b>Cous Cous</b></p>
+<p class=""p2""><b>Sweet Potato</b></p>
+<p class=""p2""><b>Mixed Grilled Veggies</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Snack #3</p>
+<p class=""p2""><b>Protein Shake OR</b></p>
+<p class=""p2""><b>12 Ounce glass of Skim Milk or 1% Skim Milk</b></p>
+<p class=""p2""><b>Small Banana/ Berries</b></p>
+<p class=""p3""><br></p>
+"
+"48","48","<p class=""eatPeriod"">Breakfast</p>
+<p class=""p2""><b>Whole Wheat Waffles with Sugar Free Maple Syrup</b></p>
+<p class=""p2""><b>Pumpkin Butter</b></p>
+<p class=""p2""><b>Glass of Skim Milk</b></p>
+<p class=""p2""><b>High Grade Omega-3’s</b></p>
+<p class=""p4""><span class=""s1""></span><br></p>","<p class=""eatPeriod"">Snack #1</p>
+<p class=""p2""><b>25-30 Grapes</b></p>
+<p class=""p2""><b>Low Fat Mozzarella String Cheese</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Lunch</p>
+<p class=""p2""><b>Tuna Fish Salad (use fat free mayo to prepare) on Whole Wheat pita w/ Craisins</b></p>
+<p class=""p2""><b>1 Apple</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Snack #2</p>
+<p class=""p2""><b>1/2 Peanut Butter and Banana Sandwich on Whole Wheat Bread</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Dinner</p>
+<p class=""p2""><b>Seared Ahi Tuna Steak with Black Peppercorns and Wasabi (no mayo)</b></p>
+<p class=""p2""><b>Jasmine Rice</b></p>
+<p class=""p2""><b>Wilted Spinach</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Snack #3</p>
+<p class=""p2""><b>Protein Shake OR</b></p>
+<p class=""p2""><b>Air Popped Popcorn with Drizzled Honey</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><br></p>"
+"49","49","<p class=""eatPeriod"">Breakfast</p>
+<p class=""p2""><b>Bowl of Oatmeal (add Cinnamon + Walnuts)</b></p>
+<p class=""p2""><b>Glass of Skim Milk</b></p>
+<p class=""p2""><b>Scrambled Egg Whites with Salsa</b></p>
+<p class=""p2""><b>High Grade Omega-3’s</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Lunch</b></p>
+<p class=""p2""><b>Peanut Butter and Jelly Sandwich on Whole Wheat Bread</b></p>
+<p class=""p2""><b>Fat Free Yogurt</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>","<p class=""eatPeriod"">Lunch</p>
+<p class=""p2""><b>Grilled Chicken on a Whole Wheat Wrap with Mango Slices and Black Pepper</b></p>
+<p class=""p2""><b>Fat Free Yogurt</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Snack #2</p>
+<p class=""p2""><b>No Fat Cottage Cheese OR Ricotta Cheese w/ Cinnamon and a few Crushed Almonds</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Dinner</p>
+<p class=""p2""><b>Baked Chicken Breast</b></p>
+<p class=""p2""><b>Sweet Potato Fries (baked in the oven with coating of PAM)</b></p>
+<p class=""p2""><b>Mixed Grilled Veggies</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Snack #3</p>
+<p class=""p2""><b>Protein Shake OR</b></p>
+<p class=""p2""><b>Air Popped Popcorn with Garlic Powder and Hot Sauce</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><br></p>"
+"50","50","<p class=""eatPeriod"">Breakfast</p>
+<p class=""p2""><b>Oatmeal Power Shake (12 ounces Skim Milk, 1/4 Cup Oats, Banana, Strawberries, and 1 Scoop Protein Powder or Plain Yogurt)</b></p>
+<p class=""p2""><b>High Grade Omega-3’s</b></p>
+<p class=""p6""><span class=""s1""></span><br></p>","<p class=""eatPeriod"">Snack #1</p>
+<p class=""p2""><b>A Bag of Pretzels with Spicy Mustard</b></p>
+<p class=""p2""><b>Fat Free Yogurt</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p6""><br></p>","<p class=""eatPeriod"">Lunch</p>
+<p class=""p2""><b>Grilled Chicken on a Whole Wheat Wrap with Spinach, Sun Dried Tomatoes and Pepper</b></p>
+<p class=""p2""><b>Fat Free Yogurt</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p6""><br></p>","<p class=""eatPeriod"">Snack #2</p>
+<p class=""p2""><b>A couple of Bunches of Grapes</b></p>
+<p class=""p2""><b>Wedge of Laughing Cow or Baby Ebel Cheese</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p6""><br></p>","<p class=""eatPeriod"">Dinner</p>
+<p class=""p2""><b>Grilled Shrimp</b></p>
+<p class=""p2""><b>Angel Hair Pasta with Garlic and Olive Oil</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p6""><span class=""s1""></span><br></p>","<p class=""eatPeriod"">Snack #3</p>
+<p class=""p2""><b>Protein Shake OR</b></p>
+<p class=""p2""><b>1% Cottage Cheese</b></p>
+<p class=""p2""><b>Fresh Strawberries</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><span class=""s1""></span><br></p>"
+"51","51","<p class=""eatPeriod"">Breakfast</p>
+<p class=""p2""><b>Bowl of Kashi Heart to Heart w/ Skim Milk</b></p>
+<p class=""p2""><b>Scrambled Egg Whites w/ Salsa</b></p>
+<p class=""p2""><b>High Grade Omega-3’s</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Snack #1</p>
+<p class=""p2""><b>Greek Yogurt (Chobani) with Honey and Almonds</b></b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p3""><br></b></b></p>","<p class=""eatPeriod"">Lunch</p>
+<p class=""p2""><b>Pasta Salad with Citrus Grilled Chicken and Low-Fat Vinaigrette</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p6""><br></p>","<p class=""eatPeriod"">Snack #2</p>
+<p class=""p2""><b>Turkey / Beef Jerky</b></p>
+<p class=""p2""><b>Saltine Crackers</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p6""><br></p>","<p class=""eatPeriod"">Dinner</p>
+<p class=""p2""><b>Top Round or Grilled Sirloin Steak</b></p>
+<p class=""p2""><b>Baked Sweet Potato</b></p>
+<p class=""p2""><b>Grilled Asparagus</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p6""><br></p>","<p class=""eatPeriod"">Snack #3</p>
+<p class=""p2""><b>Protein Shake OR</b></p>
+<p class=""p2""><b>Greek Yogurt with a Handful of Crushed Almonds</b></p>
+<p class=""p4""><br></p>"
+"52","52","<p class=""eatPeriod"">Breakfast</p>
+<p class=""p2""><b>Bowl of Oatmeal (add Cinnamon + Walnuts)</b></p>
+<p class=""p2""><b>Glass of Skim Milk</b></p>
+<p class=""p2""><b>Scrambled Egg Whites w/ Hot Sauce</b></p>
+<p class=""p2""><b>High Grade Omega-3’s</b></p>
+<p class=""p6""><span class=""s1""></span><br></p>","<p class=""eatPeriod"">Snack #1</p>
+<p class=""p2""><b>Bag of Homemade Trail Mix (Coconut, Almonds, Kashi Go Lean cereal, Walnuts, a few Chocolate Chips)</b></p>","<p class=""eatPeriod"">Lunch</p>
+<p class=""p2""><b>Egg White and Pepper Omelet on a Whole Wheat Wrap with Fat Free Swiss Cheese</b></p>
+<p class=""p2""><b>Fat Free Yogurt</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p6""><span class=""s1""></span><br></p>","<p class=""eatPeriod"">Snack #2</p>
+<p class=""p2""><b>A Bag of Pretzels with Spicy Mustard</b></p>
+<p class=""p2""><b>Fat Free Yogurt</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><span class=""s1""></span><br></p>","<p class=""eatPeriod"">Dinner</p>
+<p class=""p2""><b>Lemon Filet of Sole</b></p>
+<p class=""p2""><b>Wilted Garlic Spinach</b></p>
+<p class=""p2""><b>Brown Rice</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p6""><br></p>","<p class=""eatPeriod"">Snack #3</p>
+<p class=""p2""><b>Protein Shake OR</b></p>
+<p class=""p2""><b>Turkey / Beef Jerky</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><span class=""s1""></span><br></p>"
+"53","53","<p class=""eatPeriod"">Breakfast</p>
+<p class=""p2""><b>Bowl of Kashi Go Lean w/ Skim Milk</b></p>
+<p class=""p2""><b>Scrambled Egg Whites w/ Salsa</b></p>
+<p class=""p2""><b>High Grade Omega-3’s</b></p>
+<p class=""p4""><span class=""s1""></span><br></p>","<p class=""eatPeriod"">Snack #1</p>
+<p class=""p2""><b>12 Ounce Glass of Skim or 1% Milk</b></p>
+<p class=""p2""><b>Small Banana /Berries</b></p>","<p class=""eatPeriod"">Lunch</p>
+<p class=""p2""><b>Canned Tuna in Water (mix with lemon juice and black pepper) add Fat Free Mayo on Whole Wheat</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><span class=""s1""></span><br></p>","<p class=""eatPeriod"">Snack #2</p>
+<p class=""p2""><b>Greek Yogurt (Chobani) with Honey and Almonds</b></p>
+<p class=""p2""><b>1 Apple</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><span class=""s1""></span><br></p>","<p class=""eatPeriod"">Dinner</p>
+<p class=""p2""><b>Grilled Pork Chops with BBQ sauce</b></p>
+<p class=""p2""><b>Beer Cooked Sauerkraut</b></p>
+<p class=""p2""><b>Steamed Cabbage</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Snack #3</p>
+<p class=""p2""><b>Protein Shake OR</b></p>
+<p class=""p2""><b>Small Bowl of Kashi Go Lean (or other High Protein Cereal) in Nonfat / Skim Milk</b></p>
+<p class=""p4""><br></p>"
+"54","54","<p class=""eatPeriod"">Breakfast</p>
+<p class=""p2""><b>Breakfast Smoothie (2 Cups of Skim Milk, ½ Banana, Fresh Strawberries, and 1 Scoop Protein Powder)</b></p>
+<p class=""p2""><b>High Grade Omega-3’s</b></p>
+<p class=""p4""><span class=""s1""></span><br></p>","<p class=""eatPeriod"">Snack #1</p>
+<p class=""p2""><b>1% Cottage Cheese</b></p>
+<p class=""p2""><b>Fresh Strawberries</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>","<p class=""eatPeriod"">Lunch</p>
+<p class=""p2""><b>Turkey Breast on a Whole Wheat Wrap w/ Hot Mustard and Fat Free Swiss</b></p>
+<p class=""p2""><b>Fat Free Yogurt</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><span class=""s1""></span><br></p>","<p class=""eatPeriod"">Snack #2</p>
+<p class=""p2""><b>Turkey / Beef Jerky</b></p>
+<p class=""p2""><b>Saltine Crackers</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Dinner</p>
+<p class=""p2""><b>Grilled Pork Chop</b></p>
+<p class=""p2""><b>Applesauce</b></p>
+<p class=""p2""><b>Grilled Portobello Mushrooms</b></p>
+<p class=""p2""><b>Baked Sweet Potato</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Snack #3</p>
+<p class=""p2""><b>Protein Shake OR</b></p>
+<p class=""p2""><b>No Fat Cottage Cheese / Ricotta Cheese with Cinnamon and a few Crushed Almonds</b></p>
+<p class=""p3""><br></p>"
+"55","55","<p class=""eatPeriod"">Breakfast</p>
+<p class=""p2""><b>Whole Wheat Waffles with Sugar Free Maple Syrup</b></p>
+<p class=""p2""><b>Pumpkin Butter</b></p>
+<p class=""p2""><b>Glass of Skim Milk</b></p>
+<p class=""p2""><b>High Grade Omega-3’s</b></p>
+<p class=""p4""><span class=""s1""></span><br></p>","<p class=""eatPeriod"">Snack #1</p>
+<p class=""p2""><b>25-30 Grapes</b></p>
+<p class=""p2""><b>Low Fat Mozzarella String Cheese</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><span class=""s1""></span><br></p>","<p class=""eatPeriod"">Lunch</p>
+<p class=""p2""><b>Tuna Fish (use fat free mayo to prepare) on Whole Wheat pita w/ Craisins</b></p>
+<p class=""p2""><b>1 Apple</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><span class=""s1""></span><br></p>","<p class=""eatPeriod"">Snack #2</p>
+<p class=""p2""><b>1/2 Peanut Butter and Banana Sandwich on Whole Wheat Bread</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><span class=""s1""></span><br></p>","<p class=""eatPeriod"">Dinner</p>
+<p class=""p2""><b>Seared Ahi Tuna Steak with Black Peppercorns and Wasabi (no mayo)</b></p>
+<p class=""p2""><b>Jasmine Rice</b></p>
+<p class=""p2""><b>Wilted Spinach</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><br></p>","<p class=""eatPeriod"">Snack #3</p>
+<p class=""p2""><b>Protein Shake OR</b></p>
+<p class=""p2""><b>Air Popped Popcorn with Drizzled Honey</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p4""><br></p>"
+"56","56","<p class=""eatPeriod"">Breakfast</p>
+<p class=""p2""><b>Scrambled Egg Whites</b></p>
+<p class=""p2""><b>Turkey Bacon</b></p>
+<p class=""p2""><b>Whole Wheat Toast</b></p>
+<p class=""p2""><b>Glass of Skim Milk</b></p>
+<p class=""p2""><b>High Grade Omega-3’s</b></p>
+<p class=""p6""><span class=""s1""></span><br></p>","<p class=""eatPeriod"">Snack #1</p>
+<p class=""p2""><b>Walnuts and Apricots (mix about 10 dried Apricots with 10-12 Walnuts in a bag)</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p6""><br></p>","<p class=""eatPeriod"">Lunch</p>
+<p class=""p2""><b>Peanut Butter and Jelly Sandwich on Whole Wheat Bread</b></p>
+<p class=""p2""><b>1 Pear</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p6""><br></p>","<p class=""eatPeriod"">Snack #2</p>
+<p class=""p2""><b>Protein Shake</b></p>
+<p class=""p6""><span class=""s1""></span><br></p>","<p class=""eatPeriod"">Dinner</p>
+<p class=""p2""><b>Chicken Cacciatore Lite (made with mushrooms, tomatoes, onions, peppers)</b></p>
+<p class=""p2""><b>Brown Rice</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>
+<p class=""p6""><br></p>","<p class=""eatPeriod"">Snack #3</p>
+<p class=""p2""><b>Protein Shake OR</b></p>
+<p class=""p2""><b>Air Popped Popcorn with Sprinkled Sea Salt</b></p>
+<p class=""p2""><b>Bottle of Water</b></p>"

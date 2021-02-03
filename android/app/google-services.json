@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "670467594377",
+    "firebase_url": "https://pack-promise.firebaseio.com",
+    "project_id": "pack-promise",
+    "storage_bucket": "pack-promise.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670467594377:android:cb7527b414050da469ce58",
+        "android_client_info": {
+          "package_name": "com.mi.AthleanX"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "670467594377-0asbuvm872v891fopuvt8i2neugvnc6d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB15PV5ExfSq4n4P3We5rZCl-_QqOX76Qc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "670467594377-0asbuvm872v891fopuvt8i2neugvnc6d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

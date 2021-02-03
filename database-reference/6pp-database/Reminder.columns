@@ -1,0 +1,5 @@
+"name","type","length","leftDigits","rightDigits"
+"time","STRING","0","0","0"
+"is_set","STRING","0","0","0"
+"id","STRING","0","0","0"
+"a","STRING","0","0","0"

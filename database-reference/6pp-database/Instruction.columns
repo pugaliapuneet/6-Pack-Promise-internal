@@ -1,0 +1,4 @@
+"name","type","length","leftDigits","rightDigits"
+"is_completed","STRING","0","0","0"
+"remaining_from","STRING","0","0","0"
+"id","STRING","0","0","0"

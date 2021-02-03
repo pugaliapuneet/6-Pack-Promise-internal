@@ -1,0 +1,4 @@
+"name","type","length","leftDigits","rightDigits"
+"id","INTEGER","1","1","0"
+"equipment","STRING","15","0","0"
+"is_selected","INTEGER","1","1","0"

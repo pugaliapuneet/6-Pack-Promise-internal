@@ -1,0 +1,8 @@
+"name","type","length","leftDigits","rightDigits"
+"day","INTEGER","1","1","0"
+"Breakfast","STRING","172","0","0"
+"Snack #1","STRING","125","0","0"
+"Lunch","STRING","153","0","0"
+"Snack #2","STRING","123","0","0"
+"Dinner","STRING","157","0","0"
+"Snack #3","STRING","117","0","0"
