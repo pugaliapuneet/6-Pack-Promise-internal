@@ -52,7 +52,7 @@ const WorkoutSuccessScreen = (props) => {
 
     const updateFavoriteWorkout = async () => {
         if (!title && !isShuffle) {
-            await setTodayWorkout(props.currentDayId + 1)
+            await setTodayWorkout(props.currentDayId + 1, true)
         }
     }
 

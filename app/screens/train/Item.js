@@ -7,6 +7,7 @@ import { showCustomAlert } from '../../utils'
 import { useNavigation } from '@react-navigation/native'
 import { proDownloadStatuses } from '../../store/user/reducer'
 import { DocumentDirectoryPath } from 'react-native-fs'
+import moment from 'moment';
 
 const styles = (theme = lightTheme) => StyleSheet.create({
     container: {
@@ -63,7 +64,8 @@ const ItemComponent = ({
     isPurchasedFullVersion,
     downloadStatus,
     setVisibleDownload,
-    completeWorkoutId
+    completeWorkoutId,
+    lastWorkoutDate
 }) => {
     const { navigate } = useNavigation()
     const dayId = (indexSelected * 7 + day)
@@ -112,7 +114,7 @@ const ItemComponent = ({
     }
     return (
         <TouchableOpacity
-            style={[styles().container, isLast && { borderBottomColor: 0 }, dayId == currentDayId && { backgroundColor: Colors.red }]}
+            style={[styles().container, isLast && { borderBottomColor: 0 }, dayId == currentDayId - (lastWorkoutDate == moment().format('YYYY-MM-DD') ? 1 : 0) && { backgroundColor: Colors.red }]}
             activeOpacity={0.9}
             onPress={handleOnPress}
         >

@@ -54,16 +54,17 @@ const getExercise60ById = (ex, exerciseList) => {
 }
 
 
-export const setTodayWorkout = (changeDayValue = null) => async (dispatch, getState) => {
+export const setTodayWorkout = (changeDayValue = null, isNextDay = false) => async (dispatch, getState) => {
     const payload = await getTodayWorkout(changeDayValue, true)
     if (changeDayValue && (changeDayValue % 7 == 3 || changeDayValue % 7 == 0)) {
-        await  AsyncStorage.setItem(localStorageKeys.restDate, `${moment().format('YYYY-MM-DD')}`)
+        await  AsyncStorage.setItem(localStorageKeys.restDate, isNextDay ? moment().add(1, 'd').format('YYYY-MM-DD') : `${moment().format('YYYY-MM-DD')}`)
     } 
     console.log({changeDayValue})
     dispatch({ type: ActionTypes.SET_TODAY_WORKOUT, payload })
 }
 export const setCompleteWorkoutId = (payload) => async (dispatch) => {
     AsyncStorage.setItem(localStorageKeys.completeWorkoutId, `${payload}`)
+    AsyncStorage.setItem(localStorageKeys.lastWorkoutDate, moment().format('YYYY-MM-DD'))
     dispatch({ type: ActionTypes.SET_COMPLETED_WORKOUT_ID, payload })
 }
 export const getCompleteWorkoutId = () => async (dispatch) => {
@@ -81,6 +82,7 @@ export const getTodayWorkout = (changeDayValue = null, save = false, trainData =
             const { data: dayId } = await SQL.getCurrentDay(changeDayValue)
             currentDayId = dayId
         }
+        const lastWorkoutDate = await AsyncStorage.getItem(localStorageKeys.lastWorkoutDate)
         const { data } = await SQL.getAllDays()
         const { data: exerciseList } = await SQL.getExercises()
         const dayData = data.find(item => item.id == currentDayId)
@@ -113,7 +115,7 @@ export const getTodayWorkout = (changeDayValue = null, save = false, trainData =
             })
             const workoutTimes = newTodayWorkout.map(({ durationTime }) => (parseInt(durationTime)))
             const totalTime = _.sum(workoutTimes)
-            const payload = { result: true, allDays: data, sampleImageId, todayWorkout: newTodayWorkout, currentDayId, workoutTimes, totalTime }
+            const payload = { result: true, allDays: data, sampleImageId, todayWorkout: newTodayWorkout, currentDayId, workoutTimes, totalTime, lastWorkoutDate }
             resolve(payload)
         } else {
             resolve({ result: false, })

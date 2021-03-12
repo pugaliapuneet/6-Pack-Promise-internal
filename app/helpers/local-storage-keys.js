@@ -16,5 +16,6 @@ export default {
     currentShuffleId: '@currentShuffleId',
     preDefinedShuffles: "@preDefinedShuffles",
     showedMusicPopup: "@showedMusicPopup",
-    restDate:"@restDate"
+    restDate:"@restDate",
+    lastWorkoutDate: "@lastWorkoutDate"
 }

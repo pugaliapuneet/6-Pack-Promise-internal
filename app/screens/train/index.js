@@ -21,7 +21,8 @@ const TrainScreen = ({
     allDays,
     setTodayWorkout,
     user,
-    setPurchasedStatus
+    setPurchasedStatus,
+    lastWorkoutDate
 }) => {
 
     const [visibleUpgradePro, setVisibleUpgradePro] = useState(false)
@@ -94,6 +95,7 @@ const TrainScreen = ({
                             indexSelected={indexSelected - 1}
                             currentDayId={currentDayId}
                             completeWorkoutId={completeWorkoutId}
+                            lastWorkoutDate={lastWorkoutDate}
                             setTodayWorkout={setTodayWorkout}
                             allDays={allDays}
                             day={item}
@@ -128,6 +130,7 @@ const mapStateToProps = ({ user, workout }) => {
         completeWorkoutId: workout.completeWorkoutId,
         allDays: workout.allDays,
         currentDayId: workout.currentDayId,
+        lastWorkoutDate: workout.lastWorkoutDate
     }
 }
 

@@ -61,7 +61,7 @@ export const getCurrentDay = (changeDayValue = null) => {
                 .then(async (data) => {                  
                     if (data == 0 || data) {
                         const restDate = await AsyncStorage.getItem(localKeys.restDate)
-                        const isSkip = restDate && restDate !== moment().format('YYYY-MM-DD');                       
+                        const isSkip = restDate && restDate < moment().format('YYYY-MM-DD');                       
                         if (isSkip) {
                             const nextDate = parseInt(data) + 1
                             setCurrentDay(nextDate);
