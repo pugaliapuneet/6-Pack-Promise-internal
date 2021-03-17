@@ -114,9 +114,16 @@ const ShuffleScreen = (props) => {
             }
             query = "select * from ex where (\"30 Seconds\" in (" + templateWhere + ") OR " +
                 "\"60 Seconds\" in (" + templateWhere + ") )" +
-                " AND " + category + "=1 AND " + queryWhere + " AND ID not in (" + usedExe + ") ORDER BY RANDOM() LIMIT 1";
+                " AND " + category + "=1 AND " + queryWhere + "AND EQUIPMENT != 'Bodyweight' AND ID not in (" + usedExe + ") ORDER BY RANDOM() LIMIT 1";
 
             let res1 = await SQL.queryExercise(query)
+
+            if (!res1.data.length) {
+                query = "select * from ex where (\"30 Seconds\" in (" + templateWhere + ") OR " +
+                    "\"60 Seconds\" in (" + templateWhere + ") )" +
+                    " AND " + category + "=1 AND " + queryWhere + " AND ID not in (" + usedExe + ") ORDER BY RANDOM() LIMIT 1";
+                res1 = await SQL.queryExercise(query)
+            }
             let dic = res1.data[0]
             let dicEx = {}
             while (dic["60 Seconds"] == 'NA') {
