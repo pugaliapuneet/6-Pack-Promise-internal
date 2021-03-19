@@ -312,7 +312,7 @@ const WorkoutScreen = (props) => {
                 <View style={{ padding: 10 }}>
                     {
                         indexForBottomNextExercice <= todayWorkout.length - 1 ?
-                            <Text style={{ color: 'white', fontSize: 20 }}>Next Exercice: <Text style={{ fontWeight: 'bold' }}>{todayWorkout[indexForBottomNextExercice].exerciseName}</Text></Text>
+                            <Text style={{ color: 'white', fontSize: 20 }}>Up Next: <Text style={{ fontWeight: 'bold' }}>{todayWorkout[indexForBottomNextExercice].exerciseName}</Text></Text>
                             : <Text style={{ color: 'white', fontSize: 20, fontWeight: 'bold' }}>Last Exercise</Text>
                     }
                 </View>

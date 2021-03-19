@@ -76,6 +76,7 @@ const TodayWorkoutScreen = (props) => {
                     style={{ width: '100%' }}
                     data={todayWorkout}
                     renderItem={renderItem}
+                    keyExtractor={(item, index) => index}
                 />
                 <Banner
                     bottom

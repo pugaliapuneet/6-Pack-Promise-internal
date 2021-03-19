@@ -249,6 +249,7 @@ const ShuffleScreen = (props) => {
                     style={{ width: '100%' }}
                     data={data}
                     renderItem={renderItem}
+                    keyExtractor={(item, index) => index}
                 />
                 <Banner
                     bottom
