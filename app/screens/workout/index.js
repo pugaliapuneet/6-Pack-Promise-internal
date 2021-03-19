@@ -24,6 +24,7 @@ import ActionSheet from "react-native-actions-sheet";
 import { reset } from '../../navigation/RootNavigation';
 import Tts from 'react-native-tts';
 import FreeTalking from './speech'
+import { useState } from 'react';
 
 
 const getStartAudios = (todayWorkout) => {
@@ -200,6 +201,8 @@ const WorkoutScreen = (props) => {
         }
     }, [shouldDuck]);
 
+    const [indexForBottomNextExercice, setIndexForBottomNextExercice] = useState(1);
+
     const renderItem = (item, index) => {
         const { sampleVideoPath, exerciseId, exerciseName } = item
         const isRest = exerciseName == 'Rest'
@@ -275,6 +278,7 @@ const WorkoutScreen = (props) => {
     }, []);
 
 
+
     return (
         <View style={styles().container}>
             <Header
@@ -297,10 +301,20 @@ const WorkoutScreen = (props) => {
                         activeDotColor={Colors.red}
                         dotColor={Colors.dotColor}
                         paginationStyle={{ position: 'absolute', bottom: Dimensions.calH(10) }}
-                        onIndexChanged={(index) => changeVideo(index)}
+                        onIndexChanged={(index) => {
+                            changeVideo(index);
+                            setIndexForBottomNextExercice(index + 1);
+                        }}
                     >
                         {todayWorkout.map(renderItem)}
                     </Swiper>
+                </View>
+                <View style={{ padding: 10 }}>
+                    {
+                        indexForBottomNextExercice <= todayWorkout.length - 1 ?
+                            <Text style={{ color: 'white', fontSize: 20 }}>Next Exercice: <Text style={{ fontWeight: 'bold' }}>{todayWorkout[indexForBottomNextExercice].exerciseName}</Text></Text>
+                            : <Text style={{ color: 'white', fontSize: 20, fontWeight: 'bold' }}>Last Exercise</Text>
+                    }
                 </View>
                 <Banner
                     style={{ backgroundColor: Colors.red }}
