@@ -87,12 +87,12 @@ const DownloadComponent = ({
             }}>
             <View style={styles().container}>
                 <View style={styles().mainContainer}>
-                    <ImageButton
+                    {/* <ImageButton
                         source={Images.close}
                         style={styles().closeButton}
                         imageStyle={styles().close}
                         onPress={onClose}
-                    />
+                    /> */}
                     <Text allowFontScaling={false} style={styles().title}>{Strings.downloadingExercises}</Text>
                     <Progress.Circle
                         progress={downloadProgress}
