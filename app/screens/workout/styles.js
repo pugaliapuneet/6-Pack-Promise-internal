@@ -18,8 +18,8 @@ const styles = (theme = lightTheme) => StyleSheet.create({
     container: {
         flex: 1,
         backgroundColor: theme.background,
-        alignItems: 'center',
-        justifyContent: 'flex-start',
+        // alignItems: 'center',
+        // justifyContent: 'flex-start',
     },
     progress: {
         height: '100%',

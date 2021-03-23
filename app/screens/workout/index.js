@@ -1,5 +1,5 @@
 import React, { useEffect, createRef } from 'react';
-import { Text, View, BackHandler, ActivityIndicator, Platform } from 'react-native';
+import { Text, View, BackHandler, ActivityIndicator, Platform, ScrollView, ToastAndroid } from 'react-native';
 import styles from './styles'
 import { Strings, Images, Screens, Colors, Dimensions } from '../../constants';
 import { Header, ImageButton, Banner } from '../../components'
@@ -180,19 +180,22 @@ const WorkoutScreen = (props) => {
             Boolean(playPauseSound) && Boolean(pauseStartSound) && Boolean(pauseNameSound) ||
             playComplSound === true
         )
-    const androidDucking = (shouldDuck) => {
+
+
+    const androidDucking = async (shouldDuck) => {
         try {
-            Tts.stop();
-            Tts.setDucking(shouldDuck);
-            Tts.speak(shouldDuck ? FreeTalking : 'Stop Ducking', {
+            await Tts.stop();
+            await Tts.setDucking(shouldDuck);
+            // ToastAndroid.showWithGravity(`should Duck ${shouldDuck}`, 500, ToastAndroid.BOTTOM);
+            await Tts.speak(shouldDuck ? FreeTalking : 'Stop Ducking', {
                 androidParams: {
                     KEY_PARAM_VOLUME: 0.0001,
                     KEY_PARAM_STREAM: 'STREAM_MUSIC',
                 },
             });
-            sendToSlack({ shouldDuck })
+            await sendToSlack({ shouldDuck })
         } catch (error) {
-            sendToSlack({ shouldDuck, error })
+            await sendToSlack({ shouldDuck, error })
         }
     }
     useEffect(() => {
@@ -280,7 +283,7 @@ const WorkoutScreen = (props) => {
 
 
     return (
-        <View style={styles().container}>
+        <ScrollView style={styles().container}>
             <Header
                 title={(title && `${title} Workout`) || (isShuffle ? `Shuffle ${currentShuffleId} Workout` : `Day ${currentDayId} Workout`)}
                 backWithText={"   "}
@@ -309,11 +312,11 @@ const WorkoutScreen = (props) => {
                         {todayWorkout.map(renderItem)}
                     </Swiper>
                 </View>
-                <View style={{ padding: 10 }}>
+                <View style={{ paddingTop: 0, paddingBottom: 10, alignSelf: 'center' }}>
                     {
                         indexForBottomNextExercice <= todayWorkout.length - 1 ?
-                            <Text style={{ color: 'white', fontSize: 20 }}>Up Next: <Text style={{ fontWeight: 'bold' }}>{todayWorkout[indexForBottomNextExercice].exerciseName}</Text></Text>
-                            : <Text style={{ color: 'white', fontSize: 20, fontWeight: 'bold' }}>Last Exercise</Text>
+                            <Text allowFontScaling={false} style={{ color: 'white' }}>Up Next: <Text style={{ fontWeight: 'bold' }}>{todayWorkout[indexForBottomNextExercice].exerciseName}</Text></Text>
+                            : <Text allowFontScaling={false} style={{ color: 'white', fontWeight: 'bold' }}>Last Exercise</Text>
                     }
                 </View>
                 <Banner
@@ -444,7 +447,7 @@ const WorkoutScreen = (props) => {
                     }}
                 />
             </ActionSheet>
-        </View>
+        </ScrollView>
     );
 };
 
