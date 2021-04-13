@@ -48,6 +48,8 @@ const HomeScreen = ({
     getAlarmSchedule,
     getCompleteWorkoutId
 }) => {
+    // console.log('sampleImageId', sampleImageId);
+    // console.log('todayWorkout', todayWorkout);
     const [visibleDownload, setVisibleDownload] = useState(false)
     const [visibleReview, setVisibleReview] = useState(false)
     const checkProDownloadStatus = () => {
@@ -124,16 +126,16 @@ const HomeScreen = ({
         getExercises();
         updateFavoriteWorkouts();
         initIAP();
-        getSelfies(),
-            getEquipments()
-        getShuffle()
-        getAlarmSchedule()
+        getSelfies();
+        getEquipments();
+        getShuffle();
+        getAlarmSchedule();
         setTimeout(() => {
-            Splash.hide()
+            Splash.hide();
         }, 100);
         getCompleteWorkoutId()
-        checkInAppReview()
-        sendToSlack({ name: "App Opened!" })
+        checkInAppReview();
+        sendToSlack({ name: "App Opened!" });
         checkPowerManager();
         return () => {
             RNIap.endConnection();
@@ -144,8 +146,8 @@ const HomeScreen = ({
         navigation.navigate(sampleImageId ? Screens.TodayWorkout : Screens.Learn)
     }
 
-    const homeImage = sampleImageId ? WorkoutImages[`workout${sampleImageId}`] : Images.upgradePro
-    const bannderText = sampleImageId ? Strings.todayWorkout : Strings.restday
+    const homeImage = sampleImageId ? WorkoutImages[`workout${sampleImageId}`] : Images.upgradePro;
+    const bannderText = sampleImageId ? Strings.todayWorkout : Strings.restday;
 
     return (
         <View style={styles().container}>
