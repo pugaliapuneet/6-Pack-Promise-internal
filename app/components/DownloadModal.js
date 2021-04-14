@@ -87,7 +87,7 @@ const DownloadComponent = ({
             }}>
             <View style={styles().container}>
                 <View style={styles().mainContainer}>
-                    {/* <ImageButton
+                   {/* <ImageButton
                         source={Images.close}
                         style={styles().closeButton}
                         imageStyle={styles().close}
