@@ -46,9 +46,10 @@ const styles = (theme = lightTheme) => StyleSheet.create({
         backgroundColor: theme.dot
     },
     doneBtn: {
-        width: Dimensions.deviceWidth * 0.8,
+        // width: Dimensions.deviceWidth * 0.8,
         backgroundColor: 'green',
         top: Dimensions.deviceHeight * 0.35,
+        top: 0,
         zIndex: 1000000
     },
     _doneBtn: {
