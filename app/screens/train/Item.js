@@ -8,6 +8,8 @@ import { useNavigation } from '@react-navigation/native'
 import { proDownloadStatuses } from '../../store/user/reducer'
 import { DocumentDirectoryPath } from 'react-native-fs'
 import moment from 'moment';
+import localStorageKeys from '../../helpers/local-storage-keys'
+import AsyncStorage from "@react-native-community/async-storage"
 
 const styles = (theme = lightTheme) => StyleSheet.create({
     container: {
@@ -80,7 +82,9 @@ const ItemComponent = ({
             Strings.cancel,
             Strings.yes,
             () => {
-                setTodayWorkout(dayId)
+                AsyncStorage.removeItem(localStorageKeys.lastWorkoutDate).then(() => {
+                    setTodayWorkout(dayId)
+                })
             })
     }
     const downloadAndNormalActions = () => {
