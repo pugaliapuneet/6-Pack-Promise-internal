@@ -85,7 +85,12 @@ export const getTodayWorkout = (changeDayValue = null, save = false, trainData =
         const lastWorkoutDate = await AsyncStorage.getItem(localStorageKeys.lastWorkoutDate)
         const { data } = await SQL.getAllDays()
         const { data: exerciseList } = await SQL.getExercises()
-        const dayData = data.find(item => item.id == currentDayId - (lastWorkoutDate == moment().format('YYYY-MM-DD') ? 1 : 0))
+        // console.log("GET ALL DAYS");
+        // console.log(data);
+        // console.log("currentDayId = " + currentDayId);
+        currentDayId = currentDayId - (lastWorkoutDate == moment().format('YYYY-MM-DD') ? 1 : 0);
+        const dayData = data.find(item => item.id == currentDayId)
+        // console.log("DAYDATA = ", dayData);
         if (dayData) {
             const item = dayData
             const training_Namber = item?.training_Namber
