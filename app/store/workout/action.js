@@ -88,7 +88,9 @@ export const getTodayWorkout = (changeDayValue = null, save = false, trainData =
         // console.log("GET ALL DAYS");
         // console.log(data);
         // console.log("currentDayId = " + currentDayId);
-        currentDayId = currentDayId - (lastWorkoutDate == moment().format('YYYY-MM-DD') ? 1 : 0);
+        if (trainData === null && lastWorkoutDate == moment().format('YYYY-MM-DD')) {
+            currentDayId = currentDayId - 1;
+        }
         const dayData = data.find(item => item.id == currentDayId)
         // console.log("DAYDATA = ", dayData);
         if (dayData) {
