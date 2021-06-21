@@ -126,10 +126,10 @@ const ShuffleScreen = (props) => {
             }
             let dic = res1.data[0]
             let dicEx = {}
-            while (dic["60 Seconds"] == 'NA') {
-                res1 = await SQL.queryExercise(query)
-                dic = res1.data[0]
-            }
+            // while (dic["60 Seconds"] == 'NA') {
+            //     res1 = await SQL.queryExercise(query)
+            //     dic = res1.data[0]
+            // }
             if (Object.keys(dic).length != 0) {
                 dicEx = {
                     ex: dic?.ID
