@@ -62,6 +62,7 @@ const ShuffleScreen = (props) => {
                 .then(res => {
                     if (res.result) {
                         const payload = res.todayWorkout
+                        console.log('res => ', res)
                         setData(payload)
                         setWorkoutDetails(res)
                         setTotalTime(res.totalTime)

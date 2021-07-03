@@ -37,6 +37,7 @@ const getStartAudios = (todayWorkout) => {
 }
 const WorkoutScreen = (props) => {
     const { navigation, route: { params }, currentShuffleId } = props
+    console.log(currentShuffleId)
     const title = params?.title
     const isShuffle = params?.isShuffle || false
     const todayWorkout = params?.todayWorkout || props.todayWorkout
@@ -176,7 +177,7 @@ const WorkoutScreen = (props) => {
             !Boolean(pauseStartSound) ||
             !Boolean(pauseNameSound) ||
             Boolean(playLeftSound) ||
-            Boolean(playBeepSound) ||            
+            Boolean(playBeepSound) ||
             Boolean(playPauseSound) && Boolean(pauseStartSound) && Boolean(pauseNameSound) ||
             playComplSound === true
         )
@@ -285,7 +286,7 @@ const WorkoutScreen = (props) => {
     return (
         <ScrollView style={styles().container}>
             <Header
-                title={(title && `${title} Workout`) || (isShuffle ? `Shuffle ${currentShuffleId} Workout` : `Day ${currentDayId} Workout`)}
+                title={(title && `${title} Workout`) || (isShuffle ? `Shuffle Workout` : `Day ${currentDayId} Workout`)}
                 backWithText={"   "}
                 leftAction={() => {
                     openWorkoutEndModal();
@@ -425,7 +426,7 @@ const WorkoutScreen = (props) => {
                         mixWithOthers={'duck'}
                         key={`beep-sound`}
                         source={Mp3files.mp_beep_sound}
-                        onEnd={() => {                        
+                        onEnd={() => {
                             setPlayBeepSound(false);
                         }}
 
