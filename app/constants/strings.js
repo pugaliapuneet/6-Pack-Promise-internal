@@ -45,6 +45,7 @@ export default {
     finished: "FINISHED!",
     next: 'Next',
     suffle: 'Suffle',
+    purchase: 'Purchase',
 
 
     // Long texts

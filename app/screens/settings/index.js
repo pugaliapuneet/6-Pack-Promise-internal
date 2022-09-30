@@ -11,6 +11,7 @@ import { showAlert, showCustomAlert, localNotificationSchedule } from '../../uti
 import { sendToSlack } from '../../utils/slack';
 import SettingItem from './Item';
 import styles from './styles';
+import { productId } from '../../helpers/iap'
 import localKeys from '../../helpers/local-storage-keys'
 import AsyncStorage from "@react-native-community/async-storage"
 
@@ -50,6 +51,20 @@ const SettingsScreen = ({ navigation, setTodayWorkout, workoutTime, setWorkoutTi
             }, 100)
         }
 
+    }
+    const purchaseFullVersion = async () => {
+        try {
+          const data = await RNIap.requestPurchase(productId);
+          if (Platform.OS == 'ios') {
+            await RNIap.finishTransactionIOS(data.transactionId)
+          } else {
+            await RNIap.acknowledgePurchaseAndroid(data.purchaseToken)
+          }
+          sendToSlack({ name: '[IAP Request Success]', productId })
+          setPurchasedStatus()
+        } catch (err) {
+          sendToSlack({ name: '[IAP Request ERROR]', err })
+        }
     }
     const restorePurchases = async () => {
 
@@ -117,6 +132,11 @@ const SettingsScreen = ({ navigation, setTodayWorkout, workoutTime, setWorkoutTi
                     buttonLabel={Strings.subscribe}
                     onChangeTime={setWorkoutTime}
                     value={workoutTime}
+                />
+                <SettingItem
+                    name={Strings.purchase}
+                    buttonLabel={Strings.purchase}
+                    onPress={() => { purchaseFullVersion() }}
                 />
                 <SettingItem
                     name={Strings.restorePurchases}
