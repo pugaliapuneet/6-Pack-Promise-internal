@@ -46,7 +46,7 @@
 	<key>NSCameraUsageDescription</key>
 	<string>This app would like to access your camera to attach photos to your selfies.</string>
 	<key>NSLocationWhenInUseUsageDescription</key>
-	<string></string>
+	<string/>
 	<key>NSMicrophoneUsageDescription</key>
 	<string>This app would like to use your Microphone to attach photos to your selfies.</string>
 	<key>NSPhotoLibraryAddUsageDescription</key>

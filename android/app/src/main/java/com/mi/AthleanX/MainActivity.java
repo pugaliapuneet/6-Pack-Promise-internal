@@ -9,9 +9,9 @@ import com.swmansion.gesturehandler.react.RNGestureHandlerEnabledRootView;
 public class MainActivity extends ReactActivity {
    @Override
     protected void onCreate(Bundle savedInstanceState) {
-        SplashScreen.show(this, R.style.SplashScreenTheme);
+        SplashScreen.show(this, R.style.SplashScreenTheme,true);
         super.onCreate(savedInstanceState);
-
+        //FirebaseApp.initializeApp(getApplicationContext());
     }
   /**
    * Returns the name of the main component registered from JavaScript. This is used to schedule
